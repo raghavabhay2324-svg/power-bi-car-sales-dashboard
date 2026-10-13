@@ -1,0 +1,501 @@
+Sale_ID,Sale_Date,Year,Month,Month_Number,City,State,Brand,Car_Model,Car_Type,Fuel_Type,Transmission,Units_Sold,Unit_Price_INR,Discount_Percent,Discount_INR,Revenue_INR,Cost_INR,Profit_INR,Sales_Channel,Payment_Mode,Customer_Type
+CS0447,2025-01-01,2025,Jan,1,Hyderabad,Telangana,Tata Motors,Nexon,SUV,Diesel,Automatic,1,973000,7.0,68110.0,904890.0,841867.95,63022.05,Online,UPI,Returning
+CS0264,2025-01-02,2025,Jan,1,Delhi,Delhi,Tata Motors,Nexon,SUV,CNG,Automatic,1,1010000,5.0,50500.0,959500.0,812747.95,146752.05,Direct,Card,Returning
+CS0207,2025-01-02,2025,Jan,1,Delhi,Delhi,Kia,Seltos,SUV,Petrol,Manual,1,1401000,10.0,140100.0,1260900.0,1199136.39,61763.61,Online,Loan,New
+CS0064,2025-01-02,2025,Jan,1,Ahmedabad,Gujarat,Maruti Suzuki,Dzire,Sedan,Diesel,Automatic,1,782000,3.0,23460.0,758540.0,613649.05,144890.95,Direct,UPI,Returning
+CS0497,2025-01-04,2025,Jan,1,Kolkata,West Bengal,Skoda,Slavia,Sedan,Petrol,Automatic,1,1501000,5.0,75050.0,1425950.0,1185222.02,240727.98,Online,Loan,New
+CS0326,2025-01-04,2025,Jan,1,Jaipur,Rajasthan,MG,MG ZS EV,Electric,Electric,Automatic,1,2391000,3.0,71730.0,2319270.0,1978881.94,340388.06,Dealer,Card,Returning
+CS0129,2025-01-05,2025,Jan,1,Hyderabad,Telangana,Maruti Suzuki,Swift,Hatchback,CNG,Manual,1,697000,7.0,48790.0,648210.0,574883.59,73326.41,Direct,UPI,Fleet
+CS0416,2025-01-05,2025,Jan,1,Mumbai,Maharashtra,Skoda,Slavia,Sedan,Diesel,Automatic,1,1655000,2.0,33100.0,1621900.0,1295234.13,326665.87,Online,Cash,Returning
+CS0335,2025-01-06,2025,Jan,1,Pune,Maharashtra,Hyundai,Verna,Sedan,CNG,Manual,1,1221000,3.0,36630.0,1184370.0,1006231.14,178138.86,Dealer,Loan,Returning
+CS0098,2025-01-09,2025,Jan,1,Pune,Maharashtra,Maruti Suzuki,Dzire,Sedan,CNG,Automatic,1,800000,2.0,16000.0,784000.0,660853.56,123146.44,Direct,UPI,New
+CS0270,2025-01-09,2025,Jan,1,Hyderabad,Telangana,Hyundai,Verna,Sedan,Petrol,Manual,1,1300000,3.0,39000.0,1261000.0,1035785.6,225214.4,Direct,Loan,Returning
+CS0485,2025-01-10,2025,Jan,1,Lucknow,Uttar Pradesh,Maruti Suzuki,Swift,Hatchback,Petrol,Manual,1,664000,2.0,13280.0,650720.0,518358.7,132361.3,Direct,UPI,Fleet
+CS0152,2025-01-13,2025,Jan,1,Lucknow,Uttar Pradesh,Mahindra,XUV500,SUV,Petrol,Manual,1,1496000,0.0,0.0,1496000.0,1210925.07,285074.93,Online,Loan,Fleet
+CS0379,2025-01-13,2025,Jan,1,Pune,Maharashtra,Maruti Suzuki,Baleno,Hatchback,Diesel,Automatic,1,816000,0.0,0.0,816000.0,716557.54,99442.46,Dealer,UPI,Returning
+CS0051,2025-01-14,2025,Jan,1,Ahmedabad,Gujarat,Hyundai,Verna,Sedan,Petrol,Automatic,1,1204000,0.0,0.0,1204000.0,1048222.23,155777.77,Dealer,UPI,Fleet
+CS0135,2025-01-15,2025,Jan,1,Hyderabad,Telangana,Mahindra,XUV500,SUV,CNG,Automatic,1,1461000,7.0,102270.0,1358730.0,1256708.69,102021.31,Direct,Card,Fleet
+CS0093,2025-01-15,2025,Jan,1,Delhi,Delhi,Mahindra,XUV500,SUV,Petrol,Manual,1,1538000,5.0,76900.0,1461100.0,1225436.39,235663.61,Dealer,Loan,New
+CS0498,2025-01-16,2025,Jan,1,Jaipur,Rajasthan,Skoda,Slavia,Sedan,CNG,Manual,1,1612000,10.0,161200.0,1450800.0,1388641.92,62158.08,Dealer,Card,New
+CS0330,2025-01-17,2025,Jan,1,Bengaluru,Karnataka,Mahindra,XUV500,SUV,Petrol,Automatic,1,1532000,7.0,107240.0,1424760.0,1340199.2,84560.8,Online,Loan,New
+CS0353,2025-01-18,2025,Jan,1,Kolkata,West Bengal,Honda,Honda City,Sedan,Diesel,Manual,1,1348000,0.0,0.0,1348000.0,1170714.88,177285.12,Direct,UPI,Fleet
+CS0384,2025-01-20,2025,Jan,1,Mumbai,Maharashtra,Maruti Suzuki,Swift,Hatchback,CNG,Automatic,1,701000,5.0,35050.0,665950.0,555122.86,110827.14,Direct,Cash,New
+CS0045,2025-01-21,2025,Jan,1,Pune,Maharashtra,Tata Motors,Tiago EV,Electric,Electric,Manual,1,975000,10.0,97500.0,877500.0,850471.53,27028.47,Online,Card,New
+CS0007,2025-01-21,2025,Jan,1,Delhi,Delhi,Maruti Suzuki,Baleno,Hatchback,CNG,Automatic,1,814000,0.0,0.0,814000.0,696355.14,117644.86,Direct,Cash,Returning
+CS0308,2025-01-22,2025,Jan,1,Delhi,Delhi,Honda,Honda City,Sedan,CNG,Manual,1,1318000,10.0,131800.0,1186200.0,1137984.06,48215.94,Dealer,Cash,Returning
+CS0026,2025-01-22,2025,Jan,1,Bengaluru,Karnataka,Honda,Honda City,Sedan,CNG,Automatic,1,1371000,0.0,0.0,1371000.0,1078643.01,292356.99,Direct,Loan,Returning
+CS0483,2025-01-23,2025,Jan,1,Delhi,Delhi,Maruti Suzuki,WagonR,Hatchback,Diesel,Manual,1,595000,0.0,0.0,595000.0,533467.43,61532.57,Online,UPI,Fleet
+CS0376,2025-01-26,2025,Jan,1,Kolkata,West Bengal,Maruti Suzuki,Swift,Hatchback,CNG,Automatic,1,659000,5.0,32950.0,626050.0,580605.25,45444.75,Dealer,Cash,Fleet
+CS0317,2025-01-27,2025,Jan,1,Mumbai,Maharashtra,Mahindra,Scorpio,SUV,Diesel,Automatic,1,1547000,3.0,46410.0,1500590.0,1311044.78,189545.22,Direct,UPI,Fleet
+CS0165,2025-01-28,2025,Jan,1,Bengaluru,Karnataka,MG,MG ZS EV,Electric,Electric,Manual,1,2315000,10.0,231500.0,2083500.0,2001708.78,81791.22,Online,UPI,Fleet
+CS0110,2025-01-28,2025,Jan,1,Mumbai,Maharashtra,Hyundai,Creta,SUV,CNG,Manual,1,1291000,3.0,38730.0,1252270.0,1009785.63,242484.37,Online,Cash,Fleet
+CS0150,2025-01-29,2025,Jan,1,Pune,Maharashtra,Mahindra,XUV500,SUV,CNG,Automatic,1,1551000,0.0,0.0,1551000.0,1287721.57,263278.43,Online,Card,Fleet
+CS0115,2025-02-02,2025,Feb,2,Jaipur,Rajasthan,Mahindra,Scorpio,SUV,Diesel,Automatic,1,1712000,0.0,0.0,1712000.0,1514071.51,197928.49,Online,Loan,New
+CS0306,2025-02-02,2025,Feb,2,Ahmedabad,Gujarat,Maruti Suzuki,Swift,Hatchback,Diesel,Automatic,1,674000,0.0,0.0,674000.0,574821.77,99178.23,Direct,Loan,Fleet
+CS0327,2025-02-04,2025,Feb,2,Mumbai,Maharashtra,Honda,Honda City,Sedan,Diesel,Manual,1,1379000,5.0,68950.0,1310050.0,1227760.98,82289.02,Direct,Card,Fleet
+CS0059,2025-02-04,2025,Feb,2,Lucknow,Uttar Pradesh,Maruti Suzuki,Baleno,Hatchback,CNG,Manual,1,763000,0.0,0.0,763000.0,607851.02,155148.98,Online,Loan,Fleet
+CS0124,2025-02-04,2025,Feb,2,Lucknow,Uttar Pradesh,Tata Motors,Tiago EV,Electric,Electric,Manual,1,979000,3.0,29370.0,949630.0,771500.14,178129.86,Direct,Loan,Fleet
+CS0151,2025-02-05,2025,Feb,2,Ahmedabad,Gujarat,Maruti Suzuki,Dzire,Sedan,Petrol,Manual,1,724000,3.0,21720.0,702280.0,579166.7,123113.3,Direct,UPI,New
+CS0382,2025-02-05,2025,Feb,2,Bengaluru,Karnataka,Mahindra,XUV500,SUV,Petrol,Automatic,1,1543000,5.0,77150.0,1465850.0,1321355.71,144494.29,Online,UPI,Fleet
+CS0338,2025-02-06,2025,Feb,2,Mumbai,Maharashtra,Hyundai,Verna,Sedan,CNG,Manual,1,1215000,3.0,36450.0,1178550.0,1041132.48,137417.52,Dealer,Loan,Fleet
+CS0268,2025-02-06,2025,Feb,2,Jaipur,Rajasthan,Hyundai,i20,Hatchback,Diesel,Automatic,1,914000,10.0,91400.0,822600.0,713461.82,109138.18,Online,Cash,Fleet
+CS0311,2025-02-07,2025,Feb,2,Jaipur,Rajasthan,Mahindra,Scorpio,SUV,CNG,Automatic,1,1551000,2.0,31020.0,1519980.0,1225722.71,294257.29,Online,Loan,Returning
+CS0373,2025-02-08,2025,Feb,2,Mumbai,Maharashtra,Mahindra,XUV500,SUV,CNG,Manual,1,1433000,10.0,143300.0,1289700.0,1138633.38,151066.62,Dealer,Card,New
+CS0250,2025-02-08,2025,Feb,2,Chennai,Tamil Nadu,Hyundai,Creta,SUV,Diesel,Manual,1,1308000,3.0,39240.0,1268760.0,1096627.56,172132.44,Direct,UPI,New
+CS0477,2025-02-08,2025,Feb,2,Ahmedabad,Gujarat,Maruti Suzuki,Dzire,Sedan,CNG,Manual,1,774000,5.0,38700.0,735300.0,686617.56,48682.44,Dealer,Cash,New
+CS0091,2025-02-10,2025,Feb,2,Chennai,Tamil Nadu,Tata Motors,Punch EV,Electric,Electric,Manual,1,1344000,7.0,94080.0,1249920.0,1068366.66,181553.34,Online,Cash,Fleet
+CS0109,2025-02-10,2025,Feb,2,Pune,Maharashtra,Hyundai,Verna,Sedan,CNG,Automatic,1,1342000,3.0,40260.0,1301740.0,1071455.71,230284.29,Online,UPI,Returning
+CS0137,2025-02-11,2025,Feb,2,Jaipur,Rajasthan,Maruti Suzuki,WagonR,Hatchback,Petrol,Manual,1,577000,2.0,11540.0,565460.0,462622.59,102837.41,Direct,Loan,Fleet
+CS0167,2025-02-13,2025,Feb,2,Bengaluru,Karnataka,Maruti Suzuki,Baleno,Hatchback,Diesel,Automatic,1,776000,5.0,38800.0,737200.0,691359.77,45840.23,Online,UPI,New
+CS0071,2025-02-13,2025,Feb,2,Hyderabad,Telangana,Hyundai,Verna,Sedan,Diesel,Automatic,1,1236000,3.0,37080.0,1198920.0,1004014.16,194905.84,Online,Card,Returning
+CS0161,2025-02-14,2025,Feb,2,Delhi,Delhi,Maruti Suzuki,Baleno,Hatchback,CNG,Automatic,1,761000,7.0,53270.0,707730.0,680355.68,27374.32,Online,Cash,Fleet
+CS0334,2025-02-15,2025,Feb,2,Kolkata,West Bengal,Skoda,Slavia,Sedan,CNG,Automatic,1,1630000,5.0,81500.0,1548500.0,1305598.44,242901.56,Direct,Cash,Fleet
+CS0471,2025-02-16,2025,Feb,2,Mumbai,Maharashtra,Hyundai,Creta,SUV,Diesel,Manual,1,1227000,7.0,85890.0,1141110.0,968687.42,172422.58,Online,Cash,Returning
+CS0422,2025-02-16,2025,Feb,2,Kolkata,West Bengal,Maruti Suzuki,Swift,Hatchback,Petrol,Automatic,1,667000,7.0,46690.0,620310.0,562152.21,58157.79,Online,Loan,Returning
+CS0453,2025-02-17,2025,Feb,2,Mumbai,Maharashtra,Mahindra,XUV500,SUV,Petrol,Manual,1,1562000,3.0,46860.0,1515140.0,1337223.6,177916.4,Online,Cash,New
+CS0116,2025-02-17,2025,Feb,2,Jaipur,Rajasthan,Hyundai,Verna,Sedan,Petrol,Manual,1,1259000,5.0,62950.0,1196050.0,990293.39,205756.61,Online,Card,New
+CS0329,2025-02-18,2025,Feb,2,Lucknow,Uttar Pradesh,Tata Motors,Punch EV,Electric,Electric,Automatic,1,1322000,0.0,0.0,1322000.0,1091542.08,230457.92,Dealer,Card,Fleet
+CS0030,2025-02-18,2025,Feb,2,Delhi,Delhi,Tata Motors,Nexon EV,Electric,Electric,Manual,1,1600000,0.0,0.0,1600000.0,1349318.61,250681.39,Dealer,Cash,Returning
+CS0062,2025-02-19,2025,Feb,2,Chennai,Tamil Nadu,Maruti Suzuki,Baleno,Hatchback,Petrol,Automatic,1,774000,0.0,0.0,774000.0,620160.73,153839.27,Online,Card,Fleet
+CS0314,2025-02-20,2025,Feb,2,Chennai,Tamil Nadu,Mahindra,Scorpio,SUV,CNG,Manual,1,1639000,2.0,32780.0,1606220.0,1451513.95,154706.05,Direct,Card,Returning
+CS0395,2025-02-20,2025,Feb,2,Mumbai,Maharashtra,Mahindra,XUV500,SUV,Diesel,Manual,1,1497000,5.0,74850.0,1422150.0,1289180.7,132969.3,Direct,UPI,Returning
+CS0037,2025-02-20,2025,Feb,2,Delhi,Delhi,Tata Motors,Nexon EV,Electric,Electric,Manual,1,1536000,5.0,76800.0,1459200.0,1255132.13,204067.87,Dealer,Loan,New
+CS0198,2025-02-21,2025,Feb,2,Lucknow,Uttar Pradesh,Hyundai,Creta,SUV,CNG,Manual,1,1331000,2.0,26620.0,1304380.0,1165544.88,138835.12,Direct,UPI,New
+CS0143,2025-02-21,2025,Feb,2,Chennai,Tamil Nadu,Mahindra,Scorpio,SUV,CNG,Automatic,1,1540000,3.0,46200.0,1493800.0,1250851.58,242948.42,Dealer,Card,Fleet
+CS0413,2025-02-22,2025,Feb,2,Ahmedabad,Gujarat,Maruti Suzuki,WagonR,Hatchback,CNG,Manual,1,630000,2.0,12600.0,617400.0,525400.33,91999.67,Online,Cash,Returning
+CS0086,2025-02-22,2025,Feb,2,Lucknow,Uttar Pradesh,Tata Motors,Nexon,SUV,CNG,Manual,1,978000,2.0,19560.0,958440.0,780956.01,177483.99,Online,Loan,Returning
+CS0216,2025-02-22,2025,Feb,2,Kolkata,West Bengal,Maruti Suzuki,Swift,Hatchback,CNG,Manual,1,677000,0.0,0.0,677000.0,581232.49,95767.51,Online,UPI,Fleet
+CS0055,2025-02-22,2025,Feb,2,Bengaluru,Karnataka,Mahindra,XUV500,SUV,CNG,Manual,1,1500000,3.0,45000.0,1455000.0,1325225.47,129774.53,Online,Loan,Returning
+CS0356,2025-02-23,2025,Feb,2,Delhi,Delhi,Skoda,Slavia,Sedan,Diesel,Automatic,1,1569000,5.0,78450.0,1490550.0,1271769.38,218780.62,Direct,UPI,Fleet
+CS0410,2025-02-23,2025,Feb,2,Mumbai,Maharashtra,Maruti Suzuki,Swift,Hatchback,Petrol,Automatic,1,634000,5.0,31700.0,602300.0,551684.62,50615.38,Dealer,Cash,Fleet
+CS0210,2025-02-23,2025,Feb,2,Pune,Maharashtra,Kia,Seltos,SUV,Petrol,Automatic,1,1448000,2.0,28960.0,1419040.0,1137388.14,281651.86,Direct,Cash,Returning
+CS0065,2025-02-23,2025,Feb,2,Kolkata,West Bengal,Kia,Seltos,SUV,Petrol,Automatic,1,1357000,5.0,67850.0,1289150.0,1200713.54,88436.46,Direct,Loan,Returning
+CS0278,2025-02-23,2025,Feb,2,Kolkata,West Bengal,Tata Motors,Nexon,SUV,Diesel,Automatic,1,917000,10.0,91700.0,825300.0,822788.25,2511.75,Direct,Cash,New
+CS0039,2025-02-24,2025,Feb,2,Delhi,Delhi,Tata Motors,Nexon,SUV,Diesel,Automatic,1,994000,10.0,99400.0,894600.0,848488.16,46111.84,Online,UPI,Returning
+CS0357,2025-02-27,2025,Feb,2,Lucknow,Uttar Pradesh,Tata Motors,Nexon,SUV,Petrol,Automatic,1,1014000,0.0,0.0,1014000.0,847072.58,166927.42,Online,Loan,Fleet
+CS0437,2025-02-27,2025,Feb,2,Jaipur,Rajasthan,Maruti Suzuki,Dzire,Sedan,Diesel,Automatic,1,767000,7.0,53690.0,713310.0,612798.16,100511.84,Dealer,Card,New
+CS0445,2025-02-27,2025,Feb,2,Pune,Maharashtra,Maruti Suzuki,Baleno,Hatchback,Diesel,Automatic,1,798000,3.0,23940.0,774060.0,691325.3,82734.7,Online,Cash,Fleet
+CS0403,2025-02-27,2025,Feb,2,Jaipur,Rajasthan,Honda,Honda City,Sedan,Diesel,Manual,1,1391000,5.0,69550.0,1321450.0,1115772.78,205677.22,Online,UPI,Returning
+CS0031,2025-02-28,2025,Feb,2,Kolkata,West Bengal,Tata Motors,Nexon EV,Electric,Electric,Manual,1,1539000,0.0,0.0,1539000.0,1379430.79,159569.21,Online,Card,New
+CS0263,2025-03-01,2025,Mar,3,Chennai,Tamil Nadu,Mahindra,Scorpio,SUV,Diesel,Automatic,1,1627000,5.0,81350.0,1545650.0,1433875.84,111774.16,Dealer,Card,Returning
+CS0414,2025-03-01,2025,Mar,3,Chennai,Tamil Nadu,Mahindra,XUV500,SUV,Diesel,Manual,1,1476000,0.0,0.0,1476000.0,1157233.64,318766.36,Dealer,Loan,Returning
+CS0117,2025-03-03,2025,Mar,3,Bengaluru,Karnataka,Maruti Suzuki,Dzire,Sedan,Petrol,Automatic,1,720000,7.0,50400.0,669600.0,590414.33,79185.67,Dealer,Loan,New
+CS0162,2025-03-03,2025,Mar,3,Ahmedabad,Gujarat,Maruti Suzuki,Dzire,Sedan,CNG,Automatic,1,768000,2.0,15360.0,752640.0,679490.69,73149.31,Online,Loan,Fleet
+CS0398,2025-03-04,2025,Mar,3,Bengaluru,Karnataka,Tata Motors,Nexon,SUV,Petrol,Manual,1,970000,7.0,67900.0,902100.0,807839.16,94260.84,Online,UPI,Returning
+CS0102,2025-03-04,2025,Mar,3,Chennai,Tamil Nadu,Kia,Seltos,SUV,Diesel,Manual,1,1396000,0.0,0.0,1396000.0,1130506.9,265493.1,Dealer,UPI,Returning
+CS0139,2025-03-04,2025,Mar,3,Mumbai,Maharashtra,Honda,Honda City,Sedan,Diesel,Manual,1,1357000,2.0,27140.0,1329860.0,1154583.63,175276.37,Direct,Loan,Returning
+CS0095,2025-03-06,2025,Mar,3,Pune,Maharashtra,Mahindra,Scorpio,SUV,Petrol,Manual,1,1636000,5.0,81800.0,1554200.0,1346525.6,207674.4,Dealer,UPI,New
+CS0159,2025-03-07,2025,Mar,3,Chennai,Tamil Nadu,Skoda,Slavia,Sedan,Diesel,Automatic,1,1640000,2.0,32800.0,1607200.0,1436525.04,170674.96,Dealer,Card,Returning
+CS0299,2025-03-09,2025,Mar,3,Kolkata,West Bengal,Tata Motors,Nexon,SUV,Diesel,Automatic,1,984000,0.0,0.0,984000.0,879861.71,104138.29,Direct,Cash,New
+CS0459,2025-03-10,2025,Mar,3,Bengaluru,Karnataka,Hyundai,Creta,SUV,Diesel,Automatic,1,1299000,7.0,90930.0,1208070.0,1053793.52,154276.48,Dealer,Cash,New
+CS0470,2025-03-10,2025,Mar,3,Chennai,Tamil Nadu,Maruti Suzuki,Swift,Hatchback,CNG,Automatic,1,690000,7.0,48300.0,641700.0,593494.23,48205.77,Direct,Loan,New
+CS0005,2025-03-13,2025,Mar,3,Lucknow,Uttar Pradesh,Hyundai,i20,Hatchback,Diesel,Automatic,1,885000,0.0,0.0,885000.0,697860.23,187139.77,Dealer,Loan,Returning
+CS0282,2025-03-16,2025,Mar,3,Pune,Maharashtra,Honda,Honda City,Sedan,CNG,Automatic,1,1315000,7.0,92050.0,1222950.0,1111620.38,111329.62,Dealer,UPI,New
+CS0463,2025-03-17,2025,Mar,3,Hyderabad,Telangana,Maruti Suzuki,Swift,Hatchback,Diesel,Automatic,1,695000,5.0,34750.0,660250.0,565455.11,94794.89,Dealer,Loan,Returning
+CS0061,2025-03-22,2025,Mar,3,Chennai,Tamil Nadu,Hyundai,Verna,Sedan,Petrol,Manual,1,1225000,5.0,61250.0,1163750.0,983766.49,179983.51,Dealer,Loan,Returning
+CS0204,2025-03-22,2025,Mar,3,Chennai,Tamil Nadu,Maruti Suzuki,Dzire,Sedan,Diesel,Automatic,1,745000,0.0,0.0,745000.0,636253.27,108746.73,Online,Card,Returning
+CS0104,2025-03-22,2025,Mar,3,Bengaluru,Karnataka,Mahindra,Scorpio,SUV,Diesel,Manual,1,1693000,2.0,33860.0,1659140.0,1343015.94,316124.06,Online,UPI,Returning
+CS0157,2025-03-27,2025,Mar,3,Jaipur,Rajasthan,Mahindra,Scorpio,SUV,Diesel,Manual,1,1684000,2.0,33680.0,1650320.0,1335061.37,315258.63,Online,UPI,Fleet
+CS0466,2025-03-27,2025,Mar,3,Delhi,Delhi,Maruti Suzuki,Dzire,Sedan,CNG,Manual,1,745000,7.0,52150.0,692850.0,659124.19,33725.81,Dealer,UPI,New
+CS0012,2025-03-29,2025,Mar,3,Ahmedabad,Gujarat,Mahindra,XUV500,SUV,CNG,Manual,1,1549000,0.0,0.0,1549000.0,1302136.31,246863.69,Direct,Loan,New
+CS0454,2025-03-30,2025,Mar,3,Kolkata,West Bengal,Hyundai,i20,Hatchback,CNG,Automatic,1,849000,5.0,42450.0,806550.0,732143.01,74406.99,Dealer,Cash,Fleet
+CS0049,2025-03-30,2025,Mar,3,Chennai,Tamil Nadu,Kia,Seltos,SUV,CNG,Manual,1,1473000,3.0,44190.0,1428810.0,1240884.1,187925.9,Direct,UPI,Fleet
+CS0057,2025-04-02,2025,Apr,4,Hyderabad,Telangana,Hyundai,i20,Hatchback,CNG,Manual,1,915000,3.0,27450.0,887550.0,767789.47,119760.53,Online,Card,Fleet
+CS0389,2025-04-02,2025,Apr,4,Pune,Maharashtra,Skoda,Slavia,Sedan,Petrol,Automatic,1,1515000,2.0,30300.0,1484700.0,1237258.85,247441.15,Online,Card,New
+CS0436,2025-04-02,2025,Apr,4,Kolkata,West Bengal,Tata Motors,Nexon,SUV,Petrol,Automatic,1,984000,5.0,49200.0,934800.0,861737.7,73062.3,Dealer,Loan,Returning
+CS0472,2025-04-04,2025,Apr,4,Mumbai,Maharashtra,Hyundai,i20,Hatchback,Petrol,Manual,1,819000,7.0,57330.0,761670.0,696098.26,65571.74,Direct,Cash,New
+CS0343,2025-04-05,2025,Apr,4,Delhi,Delhi,Maruti Suzuki,Swift,Hatchback,Diesel,Automatic,1,628000,5.0,31400.0,596600.0,528230.05,68369.95,Direct,Cash,Fleet
+CS0450,2025-04-06,2025,Apr,4,Lucknow,Uttar Pradesh,Maruti Suzuki,Swift,Hatchback,Petrol,Manual,1,688000,5.0,34400.0,653600.0,544948.63,108651.37,Direct,UPI,New
+CS0144,2025-04-06,2025,Apr,4,Pune,Maharashtra,Tata Motors,Nexon,SUV,Diesel,Automatic,1,941000,5.0,47050.0,893950.0,749716.09,144233.91,Online,UPI,New
+CS0193,2025-04-06,2025,Apr,4,Jaipur,Rajasthan,Hyundai,Creta,SUV,Petrol,Manual,1,1282000,5.0,64100.0,1217900.0,1013342.04,204557.96,Dealer,Cash,Returning
+CS0494,2025-04-06,2025,Apr,4,Mumbai,Maharashtra,Maruti Suzuki,WagonR,Hatchback,CNG,Automatic,1,579000,5.0,28950.0,550050.0,469518.55,80531.45,Dealer,Card,Returning
+CS0234,2025-04-07,2025,Apr,4,Kolkata,West Bengal,Maruti Suzuki,Dzire,Sedan,CNG,Manual,1,727000,0.0,0.0,727000.0,601687.59,125312.41,Direct,UPI,Fleet
+CS0321,2025-04-07,2025,Apr,4,Mumbai,Maharashtra,Maruti Suzuki,WagonR,Hatchback,CNG,Manual,1,586000,3.0,17580.0,568420.0,526871.44,41548.56,Dealer,Loan,Returning
+CS0230,2025-04-08,2025,Apr,4,Bengaluru,Karnataka,Tata Motors,Nexon,SUV,CNG,Manual,1,916000,5.0,45800.0,870200.0,767297.32,102902.68,Online,Card,Fleet
+CS0289,2025-04-09,2025,Apr,4,Ahmedabad,Gujarat,Mahindra,Scorpio,SUV,Petrol,Automatic,1,1682000,5.0,84100.0,1597900.0,1476053.04,121846.96,Direct,UPI,Fleet
+CS0272,2025-04-09,2025,Apr,4,Chennai,Tamil Nadu,Kia,Seltos,SUV,CNG,Automatic,1,1359000,10.0,135900.0,1223100.0,1169707.95,53392.05,Dealer,Cash,New
+CS0257,2025-04-09,2025,Apr,4,Hyderabad,Telangana,Mahindra,XUV500,SUV,Petrol,Automatic,1,1460000,0.0,0.0,1460000.0,1308641.04,151358.96,Online,Card,Fleet
+CS0344,2025-04-09,2025,Apr,4,Mumbai,Maharashtra,Tata Motors,Nexon EV,Electric,Electric,Automatic,1,1550000,7.0,108500.0,1441500.0,1265963.17,175536.83,Dealer,UPI,Returning
+CS0120,2025-04-09,2025,Apr,4,Hyderabad,Telangana,Maruti Suzuki,Dzire,Sedan,CNG,Manual,1,735000,0.0,0.0,735000.0,617256.04,117743.96,Online,Cash,New
+CS0336,2025-04-09,2025,Apr,4,Jaipur,Rajasthan,Hyundai,i20,Hatchback,CNG,Automatic,1,829000,0.0,0.0,829000.0,742430.69,86569.31,Online,Card,Fleet
+CS0013,2025-04-10,2025,Apr,4,Lucknow,Uttar Pradesh,Tata Motors,Nexon,SUV,Diesel,Manual,1,1014000,2.0,20280.0,993720.0,838278.06,155441.94,Direct,UPI,New
+CS0478,2025-04-10,2025,Apr,4,Hyderabad,Telangana,Maruti Suzuki,Dzire,Sedan,Petrol,Automatic,1,776000,5.0,38800.0,737200.0,660378.84,76821.16,Online,Card,New
+CS0488,2025-04-10,2025,Apr,4,Mumbai,Maharashtra,Maruti Suzuki,Baleno,Hatchback,Petrol,Manual,1,785000,10.0,78500.0,706500.0,620504.14,85995.86,Direct,Card,Fleet
+CS0411,2025-04-11,2025,Apr,4,Pune,Maharashtra,Tata Motors,Nexon,SUV,Diesel,Manual,1,919000,10.0,91900.0,827100.0,723111.99,103988.01,Dealer,Cash,Returning
+CS0202,2025-04-11,2025,Apr,4,Bengaluru,Karnataka,Maruti Suzuki,Baleno,Hatchback,Diesel,Automatic,1,760000,7.0,53200.0,706800.0,623362.84,83437.16,Direct,UPI,Fleet
+CS0126,2025-04-11,2025,Apr,4,Jaipur,Rajasthan,Maruti Suzuki,Baleno,Hatchback,Petrol,Automatic,1,792000,0.0,0.0,792000.0,671442.5,120557.5,Direct,UPI,Fleet
+CS0417,2025-04-13,2025,Apr,4,Mumbai,Maharashtra,Mahindra,XUV500,SUV,Petrol,Automatic,1,1489000,10.0,148900.0,1340100.0,1328811.44,11288.56,Direct,Cash,Fleet
+CS0001,2025-04-13,2025,Apr,4,Delhi,Delhi,Mahindra,XUV500,SUV,CNG,Automatic,1,1493000,0.0,0.0,1493000.0,1332991.65,160008.35,Dealer,Loan,New
+CS0008,2025-04-13,2025,Apr,4,Kolkata,West Bengal,Mahindra,XUV500,SUV,Diesel,Automatic,1,1531000,5.0,76550.0,1454450.0,1245995.39,208454.61,Direct,Loan,Fleet
+CS0369,2025-04-14,2025,Apr,4,Chennai,Tamil Nadu,Tata Motors,Punch EV,Electric,Electric,Manual,1,1243000,7.0,87010.0,1155990.0,1115712.37,40277.63,Dealer,UPI,New
+CS0284,2025-04-14,2025,Apr,4,Ahmedabad,Gujarat,Hyundai,Creta,SUV,CNG,Manual,1,1267000,3.0,38010.0,1228990.0,1024376.21,204613.79,Dealer,UPI,Fleet
+CS0066,2025-04-16,2025,Apr,4,Lucknow,Uttar Pradesh,Tata Motors,Nexon EV,Electric,Electric,Manual,1,1489000,0.0,0.0,1489000.0,1305472.04,183527.96,Direct,Loan,Returning
+CS0429,2025-04-16,2025,Apr,4,Jaipur,Rajasthan,Hyundai,i20,Hatchback,Diesel,Manual,1,849000,0.0,0.0,849000.0,739317.84,109682.16,Dealer,UPI,Returning
+CS0004,2025-04-17,2025,Apr,4,Hyderabad,Telangana,Tata Motors,Punch EV,Electric,Electric,Automatic,1,1210000,2.0,24200.0,1185800.0,958432.97,227367.03,Direct,UPI,New
+CS0166,2025-04-18,2025,Apr,4,Bengaluru,Karnataka,Tata Motors,Punch EV,Electric,Electric,Manual,1,1285000,2.0,25700.0,1259300.0,1143468.3,115831.7,Dealer,UPI,Fleet
+CS0415,2025-04-18,2025,Apr,4,Pune,Maharashtra,Maruti Suzuki,Baleno,Hatchback,Diesel,Manual,1,761000,7.0,53270.0,707730.0,642200.66,65529.34,Direct,Card,Returning
+CS0288,2025-04-22,2025,Apr,4,Bengaluru,Karnataka,Maruti Suzuki,Dzire,Sedan,Diesel,Automatic,1,755000,3.0,22650.0,732350.0,641463.62,90886.38,Online,Card,New
+CS0262,2025-04-22,2025,Apr,4,Kolkata,West Bengal,Hyundai,Creta,SUV,Diesel,Automatic,1,1225000,0.0,0.0,1225000.0,960890.7,264109.3,Dealer,Cash,Returning
+CS0203,2025-04-23,2025,Apr,4,Mumbai,Maharashtra,Kia,Seltos,SUV,Petrol,Manual,1,1481000,0.0,0.0,1481000.0,1303066.89,177933.11,Dealer,Cash,Fleet
+CS0283,2025-04-23,2025,Apr,4,Bengaluru,Karnataka,Maruti Suzuki,Baleno,Hatchback,CNG,Automatic,1,783000,2.0,15660.0,767340.0,647964.39,119375.61,Direct,Cash,Fleet
+CS0196,2025-04-23,2025,Apr,4,Pune,Maharashtra,Maruti Suzuki,Baleno,Hatchback,Petrol,Manual,1,795000,7.0,55650.0,739350.0,665947.96,73402.04,Dealer,Card,New
+CS0206,2025-04-23,2025,Apr,4,Ahmedabad,Gujarat,Mahindra,Scorpio,SUV,Diesel,Automatic,1,1556000,5.0,77800.0,1478200.0,1355779.13,122420.87,Dealer,Loan,Returning
+CS0201,2025-04-23,2025,Apr,4,Mumbai,Maharashtra,Mahindra,XUV500,SUV,CNG,Manual,1,1545000,0.0,0.0,1545000.0,1366739.79,178260.21,Online,Card,Returning
+CS0362,2025-04-24,2025,Apr,4,Mumbai,Maharashtra,Maruti Suzuki,Swift,Hatchback,Petrol,Manual,1,681000,10.0,68100.0,612900.0,560047.71,52852.29,Online,Loan,Returning
+CS0178,2025-04-26,2025,Apr,4,Chennai,Tamil Nadu,Skoda,Slavia,Sedan,Petrol,Manual,1,1625000,3.0,48750.0,1576250.0,1314061.54,262188.46,Online,Cash,Fleet
+CS0346,2025-04-26,2025,Apr,4,Lucknow,Uttar Pradesh,Tata Motors,Punch EV,Electric,Electric,Manual,1,1229000,3.0,36870.0,1192130.0,1012857.15,179272.85,Direct,Loan,Fleet
+CS0281,2025-04-26,2025,Apr,4,Bengaluru,Karnataka,Kia,Seltos,SUV,Diesel,Manual,1,1472000,7.0,103040.0,1368960.0,1289085.8,79874.2,Dealer,UPI,Fleet
+CS0440,2025-04-27,2025,Apr,4,Ahmedabad,Gujarat,Maruti Suzuki,Baleno,Hatchback,CNG,Manual,1,832000,2.0,16640.0,815360.0,714284.57,101075.43,Online,UPI,Returning
+CS0452,2025-04-28,2025,Apr,4,Delhi,Delhi,Hyundai,Creta,SUV,Diesel,Automatic,1,1293000,5.0,64650.0,1228350.0,1063214.5,165135.5,Direct,Loan,Returning
+CS0433,2025-04-30,2025,Apr,4,Delhi,Delhi,MG,MG ZS EV,Electric,Electric,Automatic,1,2447000,3.0,73410.0,2373590.0,1939631.3,433958.7,Dealer,UPI,New
+CS0279,2025-04-30,2025,Apr,4,Mumbai,Maharashtra,Hyundai,Verna,Sedan,Diesel,Automatic,1,1317000,7.0,92190.0,1224810.0,1116871.25,107938.75,Direct,UPI,New
+CS0177,2025-05-01,2025,May,5,Pune,Maharashtra,Hyundai,Creta,SUV,Petrol,Automatic,1,1347000,7.0,94290.0,1252710.0,1174843.71,77866.29,Direct,UPI,New
+CS0009,2025-05-02,2025,May,5,Delhi,Delhi,Maruti Suzuki,Swift,Hatchback,CNG,Manual,1,686000,5.0,34300.0,651700.0,616618.38,35081.62,Online,Cash,New
+CS0446,2025-05-02,2025,May,5,Jaipur,Rajasthan,Tata Motors,Nexon EV,Electric,Electric,Automatic,1,1571000,0.0,0.0,1571000.0,1260710.9,310289.1,Dealer,Card,New
+CS0225,2025-05-03,2025,May,5,Mumbai,Maharashtra,Skoda,Slavia,Sedan,Diesel,Manual,1,1511000,0.0,0.0,1511000.0,1302886.7,208113.3,Direct,Loan,New
+CS0236,2025-05-04,2025,May,5,Jaipur,Rajasthan,Hyundai,i20,Hatchback,Petrol,Automatic,1,826000,0.0,0.0,826000.0,707362.97,118637.03,Online,Loan,Returning
+CS0428,2025-05-04,2025,May,5,Lucknow,Uttar Pradesh,Skoda,Slavia,Sedan,Petrol,Automatic,1,1634000,0.0,0.0,1634000.0,1314003.41,319996.59,Direct,Loan,Fleet
+CS0400,2025-05-05,2025,May,5,Ahmedabad,Gujarat,Maruti Suzuki,WagonR,Hatchback,CNG,Manual,1,628000,5.0,31400.0,596600.0,565075.47,31524.53,Online,Cash,New
+CS0451,2025-05-06,2025,May,5,Mumbai,Maharashtra,Maruti Suzuki,Baleno,Hatchback,CNG,Automatic,1,781000,0.0,0.0,781000.0,651386.89,129613.11,Online,Cash,Returning
+CS0214,2025-05-06,2025,May,5,Lucknow,Uttar Pradesh,Honda,Honda City,Sedan,CNG,Automatic,1,1457000,2.0,29140.0,1427860.0,1210973.54,216886.46,Direct,Cash,Returning
+CS0366,2025-05-07,2025,May,5,Pune,Maharashtra,MG,MG ZS EV,Electric,Electric,Automatic,1,2525000,2.0,50500.0,2474500.0,2158773.06,315726.94,Online,Cash,Fleet
+CS0443,2025-05-07,2025,May,5,Hyderabad,Telangana,Hyundai,Verna,Sedan,CNG,Automatic,1,1300000,10.0,130000.0,1170000.0,1113008.72,56991.28,Online,Loan,Fleet
+CS0352,2025-05-08,2025,May,5,Lucknow,Uttar Pradesh,Mahindra,XUV500,SUV,Diesel,Manual,1,1538000,3.0,46140.0,1491860.0,1217742.12,274117.88,Direct,Loan,New
+CS0305,2025-05-08,2025,May,5,Pune,Maharashtra,Maruti Suzuki,Swift,Hatchback,Diesel,Manual,1,691000,5.0,34550.0,656450.0,556952.06,99497.94,Online,UPI,Fleet
+CS0249,2025-05-08,2025,May,5,Jaipur,Rajasthan,Maruti Suzuki,Dzire,Sedan,CNG,Manual,1,723000,10.0,72300.0,650700.0,639163.65,11536.35,Direct,Loan,Fleet
+CS0171,2025-05-08,2025,May,5,Jaipur,Rajasthan,Hyundai,Creta,SUV,Petrol,Automatic,1,1308000,2.0,26160.0,1281840.0,1030498.33,251341.67,Direct,Loan,Fleet
+CS0253,2025-05-09,2025,May,5,Pune,Maharashtra,Tata Motors,Nexon,SUV,Diesel,Manual,1,926000,5.0,46300.0,879700.0,801822.47,77877.53,Online,Cash,Returning
+CS0100,2025-05-09,2025,May,5,Jaipur,Rajasthan,MG,MG ZS EV,Electric,Electric,Manual,1,2400000,5.0,120000.0,2280000.0,1912110.36,367889.64,Online,Loan,Fleet
+CS0444,2025-05-09,2025,May,5,Lucknow,Uttar Pradesh,Maruti Suzuki,Baleno,Hatchback,Diesel,Automatic,1,788000,7.0,55160.0,732840.0,629980.79,102859.21,Dealer,Cash,Returning
+CS0208,2025-05-10,2025,May,5,Chennai,Tamil Nadu,MG,MG ZS EV,Electric,Electric,Automatic,1,2573000,0.0,0.0,2573000.0,2219331.6,353668.4,Dealer,Cash,Returning
+CS0215,2025-05-10,2025,May,5,Pune,Maharashtra,Hyundai,Verna,Sedan,Petrol,Automatic,1,1319000,0.0,0.0,1319000.0,1138616.02,180383.98,Dealer,Cash,Fleet
+CS0016,2025-05-11,2025,May,5,Bengaluru,Karnataka,Hyundai,Verna,Sedan,Petrol,Automatic,1,1249000,2.0,24980.0,1224020.0,1075017.07,149002.93,Direct,Card,Fleet
+CS0276,2025-05-11,2025,May,5,Jaipur,Rajasthan,Tata Motors,Tiago EV,Electric,Electric,Manual,1,989000,5.0,49450.0,939550.0,797016.33,142533.67,Online,UPI,Returning
+CS0127,2025-05-11,2025,May,5,Chennai,Tamil Nadu,Maruti Suzuki,WagonR,Hatchback,CNG,Automatic,1,608000,5.0,30400.0,577600.0,512499.51,65100.49,Online,Cash,Fleet
+CS0042,2025-05-11,2025,May,5,Delhi,Delhi,Hyundai,i20,Hatchback,CNG,Manual,1,854000,5.0,42700.0,811300.0,765516.83,45783.17,Dealer,Cash,Fleet
+CS0163,2025-05-14,2025,May,5,Hyderabad,Telangana,Mahindra,Scorpio,SUV,CNG,Manual,1,1662000,7.0,116340.0,1545660.0,1434427.64,111232.36,Direct,UPI,Fleet
+CS0044,2025-05-15,2025,May,5,Ahmedabad,Gujarat,Maruti Suzuki,Swift,Hatchback,Petrol,Automatic,1,691000,0.0,0.0,691000.0,606385.75,84614.25,Direct,UPI,Returning
+CS0303,2025-05-15,2025,May,5,Pune,Maharashtra,Hyundai,i20,Hatchback,CNG,Automatic,1,859000,7.0,60130.0,798870.0,738831.04,60038.96,Dealer,Card,Fleet
+CS0111,2025-05-15,2025,May,5,Bengaluru,Karnataka,Kia,Seltos,SUV,Petrol,Manual,1,1438000,10.0,143800.0,1294200.0,1241854.07,52345.93,Direct,Card,Returning
+CS0101,2025-05-16,2025,May,5,Chennai,Tamil Nadu,Kia,Seltos,SUV,CNG,Automatic,1,1433000,5.0,71650.0,1361350.0,1271453.77,89896.23,Online,Card,Fleet
+CS0183,2025-05-17,2025,May,5,Pune,Maharashtra,Mahindra,XUV500,SUV,Petrol,Automatic,1,1473000,10.0,147300.0,1325700.0,1257366.6,68333.4,Dealer,Loan,Returning
+CS0103,2025-05-19,2025,May,5,Jaipur,Rajasthan,Hyundai,Creta,SUV,CNG,Automatic,1,1285000,0.0,0.0,1285000.0,1119871.13,165128.87,Online,Cash,Returning
+CS0267,2025-05-20,2025,May,5,Pune,Maharashtra,Tata Motors,Tiago EV,Electric,Electric,Automatic,1,969000,2.0,19380.0,949620.0,760654.09,188965.91,Online,Cash,Fleet
+CS0387,2025-05-22,2025,May,5,Pune,Maharashtra,Kia,Seltos,SUV,Diesel,Manual,1,1344000,3.0,40320.0,1303680.0,1171052.59,132627.41,Direct,Cash,Fleet
+CS0148,2025-05-23,2025,May,5,Delhi,Delhi,Tata Motors,Nexon,SUV,CNG,Manual,1,913000,2.0,18260.0,894740.0,727137.19,167602.81,Online,Loan,New
+CS0388,2025-05-23,2025,May,5,Delhi,Delhi,Maruti Suzuki,Baleno,Hatchback,Petrol,Automatic,1,767000,5.0,38350.0,728650.0,686441.08,42208.92,Dealer,Cash,Returning
+CS0426,2025-05-24,2025,May,5,Hyderabad,Telangana,Mahindra,XUV500,SUV,Diesel,Manual,1,1463000,3.0,43890.0,1419110.0,1255424.9,163685.1,Dealer,UPI,Fleet
+CS0465,2025-05-24,2025,May,5,Ahmedabad,Gujarat,Tata Motors,Nexon,SUV,Diesel,Automatic,1,1021000,0.0,0.0,1021000.0,885411.73,135588.27,Direct,Loan,Returning
+CS0233,2025-05-24,2025,May,5,Hyderabad,Telangana,Maruti Suzuki,WagonR,Hatchback,Petrol,Manual,1,613000,2.0,12260.0,600740.0,484603.46,116136.54,Dealer,Cash,Returning
+CS0260,2025-05-24,2025,May,5,Lucknow,Uttar Pradesh,Maruti Suzuki,WagonR,Hatchback,Diesel,Manual,1,613000,0.0,0.0,613000.0,502929.95,110070.05,Online,Card,Returning
+CS0432,2025-05-25,2025,May,5,Jaipur,Rajasthan,Tata Motors,Nexon,SUV,Petrol,Manual,1,919000,0.0,0.0,919000.0,767982.35,151017.65,Direct,Cash,New
+CS0493,2025-05-27,2025,May,5,Bengaluru,Karnataka,Maruti Suzuki,Dzire,Sedan,Petrol,Manual,1,805000,7.0,56350.0,748650.0,707227.75,41422.25,Online,Card,Returning
+CS0431,2025-05-27,2025,May,5,Kolkata,West Bengal,Kia,Seltos,SUV,CNG,Automatic,1,1419000,2.0,28380.0,1390620.0,1274544.04,116075.96,Online,Card,Returning
+CS0273,2025-05-27,2025,May,5,Jaipur,Rajasthan,Maruti Suzuki,Dzire,Sedan,Petrol,Automatic,1,735000,7.0,51450.0,683550.0,634389.61,49160.39,Dealer,UPI,Fleet
+CS0244,2025-05-27,2025,May,5,Hyderabad,Telangana,Mahindra,Scorpio,SUV,Petrol,Automatic,1,1631000,5.0,81550.0,1549450.0,1380875.75,168574.25,Dealer,UPI,New
+CS0325,2025-05-27,2025,May,5,Delhi,Delhi,Hyundai,Verna,Sedan,Petrol,Automatic,1,1254000,2.0,25080.0,1228920.0,991308.48,237611.52,Direct,Cash,Returning
+CS0245,2025-05-28,2025,May,5,Delhi,Delhi,Hyundai,Creta,SUV,Diesel,Automatic,1,1349000,2.0,26980.0,1322020.0,1210019.52,112000.48,Direct,Loan,Fleet
+CS0241,2025-05-28,2025,May,5,Mumbai,Maharashtra,Kia,Seltos,SUV,Diesel,Manual,1,1466000,3.0,43980.0,1422020.0,1157840.35,264179.65,Dealer,UPI,Returning
+CS0401,2025-05-30,2025,May,5,Delhi,Delhi,MG,MG ZS EV,Electric,Electric,Automatic,1,2425000,5.0,121250.0,2303750.0,2076627.61,227122.39,Online,Card,Returning
+CS0017,2025-05-30,2025,May,5,Pune,Maharashtra,Tata Motors,Nexon,SUV,Petrol,Manual,1,1002000,7.0,70140.0,931860.0,792526.62,139333.38,Direct,Card,New
+CS0365,2025-05-31,2025,May,5,Chennai,Tamil Nadu,Mahindra,Scorpio,SUV,Diesel,Automatic,1,1540000,2.0,30800.0,1509200.0,1216385.32,292814.68,Direct,UPI,Returning
+CS0255,2025-05-31,2025,May,5,Bengaluru,Karnataka,Maruti Suzuki,Baleno,Hatchback,CNG,Automatic,1,794000,7.0,55580.0,738420.0,642876.18,95543.82,Direct,Card,Fleet
+CS0190,2025-06-01,2025,Jun,6,Mumbai,Maharashtra,Maruti Suzuki,WagonR,Hatchback,CNG,Manual,1,614000,2.0,12280.0,601720.0,522607.81,79112.19,Direct,Loan,Returning
+CS0277,2025-06-01,2025,Jun,6,Bengaluru,Karnataka,Kia,Seltos,SUV,CNG,Manual,1,1453000,3.0,43590.0,1409410.0,1151925.56,257484.44,Dealer,UPI,Returning
+CS0015,2025-06-01,2025,Jun,6,Hyderabad,Telangana,MG,MG ZS EV,Electric,Electric,Automatic,1,2469000,10.0,246900.0,2222100.0,2113020.73,109079.27,Online,Card,New
+CS0290,2025-06-02,2025,Jun,6,Lucknow,Uttar Pradesh,Mahindra,Scorpio,SUV,Petrol,Automatic,1,1539000,10.0,153900.0,1385100.0,1236576.28,148523.72,Direct,Cash,Returning
+CS0396,2025-06-02,2025,Jun,6,Chennai,Tamil Nadu,Mahindra,XUV500,SUV,Diesel,Automatic,1,1535000,2.0,30700.0,1504300.0,1289078.7,215221.3,Dealer,Loan,Fleet
+CS0464,2025-06-03,2025,Jun,6,Mumbai,Maharashtra,Kia,Seltos,SUV,CNG,Manual,1,1497000,2.0,29940.0,1467060.0,1303101.72,163958.28,Online,UPI,New
+CS0367,2025-06-04,2025,Jun,6,Pune,Maharashtra,Skoda,Slavia,Sedan,Petrol,Automatic,1,1510000,2.0,30200.0,1479800.0,1289240.35,190559.65,Online,Card,New
+CS0092,2025-06-06,2025,Jun,6,Delhi,Delhi,Kia,Seltos,SUV,Diesel,Manual,1,1374000,10.0,137400.0,1236600.0,1082683.9,153916.1,Direct,Cash,Fleet
+CS0310,2025-06-07,2025,Jun,6,Delhi,Delhi,Tata Motors,Punch EV,Electric,Electric,Manual,1,1215000,0.0,0.0,1215000.0,1053308.6,161691.4,Direct,Loan,Fleet
+CS0333,2025-06-07,2025,Jun,6,Delhi,Delhi,Hyundai,Creta,SUV,CNG,Manual,1,1329000,0.0,0.0,1329000.0,1183781.32,145218.68,Online,UPI,New
+CS0430,2025-06-07,2025,Jun,6,Pune,Maharashtra,Maruti Suzuki,Dzire,Sedan,Petrol,Automatic,1,799000,2.0,15980.0,783020.0,707554.31,75465.69,Dealer,Loan,Returning
+CS0269,2025-06-09,2025,Jun,6,Kolkata,West Bengal,Tata Motors,Tiago EV,Electric,Electric,Automatic,1,1010000,5.0,50500.0,959500.0,842914.47,116585.53,Online,UPI,Fleet
+CS0153,2025-06-09,2025,Jun,6,Delhi,Delhi,Hyundai,Verna,Sedan,Petrol,Automatic,1,1253000,2.0,25060.0,1227940.0,1085455.74,142484.26,Dealer,UPI,Returning
+CS0192,2025-06-09,2025,Jun,6,Pune,Maharashtra,Maruti Suzuki,Swift,Hatchback,Diesel,Automatic,1,698000,7.0,48860.0,649140.0,616651.81,32488.19,Direct,UPI,Returning
+CS0219,2025-06-09,2025,Jun,6,Ahmedabad,Gujarat,Maruti Suzuki,WagonR,Hatchback,CNG,Automatic,1,605000,10.0,60500.0,544500.0,536811.6,7688.4,Direct,UPI,New
+CS0349,2025-06-10,2025,Jun,6,Hyderabad,Telangana,Maruti Suzuki,WagonR,Hatchback,Petrol,Automatic,1,585000,5.0,29250.0,555750.0,493878.77,61871.23,Online,Loan,Returning
+CS0280,2025-06-10,2025,Jun,6,Ahmedabad,Gujarat,Kia,Seltos,SUV,Petrol,Manual,1,1411000,7.0,98770.0,1312230.0,1155953.25,156276.75,Online,Cash,New
+CS0298,2025-06-10,2025,Jun,6,Delhi,Delhi,Maruti Suzuki,WagonR,Hatchback,CNG,Manual,1,610000,10.0,61000.0,549000.0,534798.65,14201.35,Online,UPI,New
+CS0024,2025-06-10,2025,Jun,6,Jaipur,Rajasthan,Mahindra,Scorpio,SUV,Petrol,Manual,1,1552000,3.0,46560.0,1505440.0,1355295.84,150144.16,Online,UPI,New
+CS0072,2025-06-11,2025,Jun,6,Kolkata,West Bengal,Honda,Honda City,Sedan,Diesel,Manual,1,1348000,0.0,0.0,1348000.0,1085643.83,262356.17,Direct,Cash,Returning
+CS0105,2025-06-12,2025,Jun,6,Ahmedabad,Gujarat,Mahindra,Scorpio,SUV,CNG,Automatic,1,1612000,0.0,0.0,1612000.0,1411588.82,200411.18,Direct,Cash,Fleet
+CS0295,2025-06-12,2025,Jun,6,Jaipur,Rajasthan,Kia,Seltos,SUV,Petrol,Manual,1,1389000,5.0,69450.0,1319550.0,1152350.36,167199.64,Direct,UPI,New
+CS0185,2025-06-14,2025,Jun,6,Jaipur,Rajasthan,Mahindra,XUV500,SUV,Diesel,Automatic,1,1481000,5.0,74050.0,1406950.0,1196174.64,210775.36,Direct,Cash,Returning
+CS0047,2025-06-16,2025,Jun,6,Mumbai,Maharashtra,Maruti Suzuki,Swift,Hatchback,CNG,Manual,1,671000,10.0,67100.0,603900.0,541790.32,62109.68,Direct,UPI,New
+CS0297,2025-06-18,2025,Jun,6,Bengaluru,Karnataka,Tata Motors,Nexon,SUV,Diesel,Automatic,1,924000,5.0,46200.0,877800.0,783623.58,94176.42,Online,UPI,New
+CS0160,2025-06-19,2025,Jun,6,Hyderabad,Telangana,Mahindra,XUV500,SUV,Diesel,Automatic,1,1494000,2.0,29880.0,1464120.0,1230035.4,234084.6,Direct,UPI,Fleet
+CS0374,2025-06-19,2025,Jun,6,Mumbai,Maharashtra,Hyundai,i20,Hatchback,CNG,Manual,1,881000,7.0,61670.0,819330.0,717406.07,101923.93,Dealer,Loan,Fleet
+CS0032,2025-06-19,2025,Jun,6,Bengaluru,Karnataka,Kia,Seltos,SUV,CNG,Automatic,1,1460000,5.0,73000.0,1387000.0,1218435.59,168564.41,Dealer,Card,Returning
+CS0407,2025-06-19,2025,Jun,6,Lucknow,Uttar Pradesh,Mahindra,XUV500,SUV,CNG,Automatic,1,1531000,2.0,30620.0,1500380.0,1278358.09,222021.91,Dealer,UPI,New
+CS0149,2025-06-20,2025,Jun,6,Chennai,Tamil Nadu,Tata Motors,Punch EV,Electric,Electric,Automatic,1,1289000,7.0,90230.0,1198770.0,1098307.95,100462.05,Direct,Card,Fleet
+CS0189,2025-06-21,2025,Jun,6,Ahmedabad,Gujarat,Kia,Seltos,SUV,CNG,Automatic,1,1369000,5.0,68450.0,1300550.0,1201845.07,98704.93,Online,UPI,Returning
+CS0121,2025-06-21,2025,Jun,6,Bengaluru,Karnataka,Honda,Honda City,Sedan,CNG,Manual,1,1354000,7.0,94780.0,1259220.0,1150454.0,108766.0,Dealer,Cash,Returning
+CS0331,2025-06-21,2025,Jun,6,Lucknow,Uttar Pradesh,Hyundai,Verna,Sedan,Petrol,Automatic,1,1260000,0.0,0.0,1260000.0,1009036.91,250963.09,Online,UPI,Returning
+CS0217,2025-06-21,2025,Jun,6,Hyderabad,Telangana,Hyundai,i20,Hatchback,Petrol,Manual,1,831000,10.0,83100.0,747900.0,691292.43,56607.57,Online,Loan,New
+CS0383,2025-06-22,2025,Jun,6,Kolkata,West Bengal,Mahindra,XUV500,SUV,Petrol,Manual,1,1472000,0.0,0.0,1472000.0,1149808.34,322191.66,Dealer,Card,Returning
+CS0360,2025-06-23,2025,Jun,6,Chennai,Tamil Nadu,Hyundai,Creta,SUV,Petrol,Automatic,1,1302000,3.0,39060.0,1262940.0,1022070.97,240869.03,Direct,Cash,Returning
+CS0036,2025-06-24,2025,Jun,6,Bengaluru,Karnataka,Skoda,Slavia,Sedan,Diesel,Automatic,1,1502000,5.0,75100.0,1426900.0,1347184.92,79715.08,Dealer,Cash,Returning
+CS0372,2025-06-25,2025,Jun,6,Kolkata,West Bengal,Hyundai,i20,Hatchback,Diesel,Manual,1,860000,3.0,25800.0,834200.0,716146.59,118053.41,Direct,Cash,Fleet
+CS0307,2025-06-25,2025,Jun,6,Ahmedabad,Gujarat,Mahindra,XUV500,SUV,Diesel,Manual,1,1460000,2.0,29200.0,1430800.0,1242952.25,187847.75,Direct,Card,New
+CS0138,2025-06-28,2025,Jun,6,Chennai,Tamil Nadu,Hyundai,Creta,SUV,CNG,Manual,1,1333000,3.0,39990.0,1293010.0,1170498.27,122511.73,Direct,Card,New
+CS0406,2025-06-29,2025,Jun,6,Jaipur,Rajasthan,Tata Motors,Nexon EV,Electric,Electric,Manual,1,1517000,2.0,30340.0,1486660.0,1342131.81,144528.19,Online,UPI,Fleet
+CS0490,2025-06-29,2025,Jun,6,Lucknow,Uttar Pradesh,Hyundai,Creta,SUV,Petrol,Manual,1,1305000,3.0,39150.0,1265850.0,1173375.12,92474.88,Online,Loan,New
+CS0195,2025-06-29,2025,Jun,6,Lucknow,Uttar Pradesh,Maruti Suzuki,Dzire,Sedan,Diesel,Automatic,1,739000,0.0,0.0,739000.0,637011.39,101988.61,Direct,Cash,Returning
+CS0342,2025-06-30,2025,Jun,6,Delhi,Delhi,Maruti Suzuki,Baleno,Hatchback,Diesel,Automatic,1,760000,0.0,0.0,760000.0,620458.69,139541.31,Dealer,Loan,Fleet
+CS0224,2025-07-03,2025,Jul,7,Pune,Maharashtra,Hyundai,i20,Hatchback,CNG,Automatic,1,878000,10.0,87800.0,790200.0,768763.17,21436.83,Direct,Loan,New
+CS0467,2025-07-04,2025,Jul,7,Delhi,Delhi,Maruti Suzuki,Swift,Hatchback,Diesel,Automatic,1,666000,5.0,33300.0,632700.0,527195.03,105504.97,Direct,Card,Returning
+CS0397,2025-07-05,2025,Jul,7,Lucknow,Uttar Pradesh,Hyundai,i20,Hatchback,Petrol,Manual,1,850000,0.0,0.0,850000.0,743059.49,106940.51,Online,UPI,Returning
+CS0205,2025-07-06,2025,Jul,7,Hyderabad,Telangana,MG,MG ZS EV,Electric,Electric,Manual,1,2378000,5.0,118900.0,2259100.0,2035759.87,223340.13,Online,Card,New
+CS0155,2025-07-06,2025,Jul,7,Bengaluru,Karnataka,Tata Motors,Tiago EV,Electric,Electric,Manual,1,936000,5.0,46800.0,889200.0,733582.49,155617.51,Dealer,Card,Fleet
+CS0237,2025-07-06,2025,Jul,7,Chennai,Tamil Nadu,Kia,Seltos,SUV,CNG,Automatic,1,1501000,0.0,0.0,1501000.0,1180141.07,320858.93,Dealer,Loan,Returning
+CS0345,2025-07-07,2025,Jul,7,Bengaluru,Karnataka,Hyundai,Creta,SUV,CNG,Automatic,1,1263000,3.0,37890.0,1225110.0,1004950.46,220159.54,Online,Card,Returning
+CS0033,2025-07-07,2025,Jul,7,Mumbai,Maharashtra,Hyundai,Creta,SUV,Petrol,Automatic,1,1335000,5.0,66750.0,1268250.0,1048580.51,219669.49,Online,Card,Returning
+CS0090,2025-07-07,2025,Jul,7,Hyderabad,Telangana,Mahindra,Scorpio,SUV,Diesel,Automatic,1,1615000,3.0,48450.0,1566550.0,1327310.67,239239.33,Online,Card,Returning
+CS0457,2025-07-08,2025,Jul,7,Bengaluru,Karnataka,Hyundai,Verna,Sedan,Diesel,Manual,1,1231000,2.0,24620.0,1206380.0,965082.73,241297.27,Direct,Loan,New
+CS0006,2025-07-08,2025,Jul,7,Mumbai,Maharashtra,Maruti Suzuki,Dzire,Sedan,Diesel,Manual,1,722000,7.0,50540.0,671460.0,633725.55,37734.45,Online,UPI,Fleet
+CS0080,2025-07-09,2025,Jul,7,Kolkata,West Bengal,MG,MG ZS EV,Electric,Electric,Automatic,1,2455000,0.0,0.0,2455000.0,2035802.91,419197.09,Direct,Loan,Returning
+CS0035,2025-07-09,2025,Jul,7,Mumbai,Maharashtra,Mahindra,Scorpio,SUV,Petrol,Manual,1,1572000,2.0,31440.0,1540560.0,1313632.07,226927.93,Dealer,Card,New
+CS0399,2025-07-09,2025,Jul,7,Jaipur,Rajasthan,Maruti Suzuki,Baleno,Hatchback,Petrol,Automatic,1,789000,2.0,15780.0,773220.0,623808.69,149411.31,Online,Loan,Fleet
+CS0174,2025-07-09,2025,Jul,7,Kolkata,West Bengal,Hyundai,i20,Hatchback,Petrol,Automatic,1,818000,7.0,57260.0,760740.0,723900.72,36839.28,Online,UPI,Fleet
+CS0347,2025-07-10,2025,Jul,7,Mumbai,Maharashtra,Hyundai,Verna,Sedan,Petrol,Automatic,1,1310000,7.0,91700.0,1218300.0,1142734.73,75565.27,Direct,Loan,Fleet
+CS0069,2025-07-10,2025,Jul,7,Chennai,Tamil Nadu,Tata Motors,Nexon,SUV,CNG,Manual,1,940000,0.0,0.0,940000.0,813665.83,126334.17,Dealer,Card,Fleet
+CS0328,2025-07-11,2025,Jul,7,Bengaluru,Karnataka,Hyundai,Verna,Sedan,Petrol,Automatic,1,1327000,10.0,132700.0,1194300.0,1068263.21,126036.79,Online,Loan,New
+CS0458,2025-07-11,2025,Jul,7,Ahmedabad,Gujarat,Maruti Suzuki,Dzire,Sedan,CNG,Manual,1,804000,5.0,40200.0,763800.0,711173.81,52626.19,Online,UPI,Fleet
+CS0022,2025-07-11,2025,Jul,7,Kolkata,West Bengal,Maruti Suzuki,Baleno,Hatchback,Petrol,Manual,1,841000,0.0,0.0,841000.0,693751.41,147248.59,Direct,UPI,Fleet
+CS0293,2025-07-13,2025,Jul,7,Pune,Maharashtra,Hyundai,i20,Hatchback,CNG,Automatic,1,842000,3.0,25260.0,816740.0,685543.56,131196.44,Dealer,Loan,Returning
+CS0304,2025-07-14,2025,Jul,7,Ahmedabad,Gujarat,Maruti Suzuki,Baleno,Hatchback,Diesel,Automatic,1,791000,5.0,39550.0,751450.0,672660.88,78789.12,Direct,UPI,Returning
+CS0418,2025-07-15,2025,Jul,7,Hyderabad,Telangana,Hyundai,i20,Hatchback,CNG,Manual,1,842000,3.0,25260.0,816740.0,730602.15,86137.85,Direct,Loan,Returning
+CS0182,2025-07-17,2025,Jul,7,Bengaluru,Karnataka,MG,MG ZS EV,Electric,Electric,Manual,1,2329000,7.0,163030.0,2165970.0,1933325.48,232644.52,Direct,Cash,New
+CS0220,2025-07-17,2025,Jul,7,Mumbai,Maharashtra,Maruti Suzuki,WagonR,Hatchback,Diesel,Automatic,1,578000,2.0,11560.0,566440.0,496039.61,70400.39,Direct,UPI,Returning
+CS0231,2025-07-17,2025,Jul,7,Bengaluru,Karnataka,Maruti Suzuki,Baleno,Hatchback,CNG,Manual,1,841000,2.0,16820.0,824180.0,670360.65,153819.35,Direct,Card,Fleet
+CS0247,2025-07-18,2025,Jul,7,Bengaluru,Karnataka,Hyundai,i20,Hatchback,CNG,Automatic,1,863000,2.0,17260.0,845740.0,763058.3,82681.7,Dealer,UPI,New
+CS0235,2025-07-20,2025,Jul,7,Ahmedabad,Gujarat,Hyundai,i20,Hatchback,Diesel,Manual,1,886000,5.0,44300.0,841700.0,776198.38,65501.62,Dealer,Loan,Fleet
+CS0112,2025-07-20,2025,Jul,7,Mumbai,Maharashtra,MG,MG ZS EV,Electric,Electric,Manual,1,2347000,5.0,117350.0,2229650.0,1992965.85,236684.15,Online,Loan,Returning
+CS0073,2025-07-21,2025,Jul,7,Mumbai,Maharashtra,Hyundai,Verna,Sedan,Petrol,Automatic,1,1333000,0.0,0.0,1333000.0,1134691.05,198308.95,Dealer,Loan,New
+CS0223,2025-07-22,2025,Jul,7,Kolkata,West Bengal,Kia,Seltos,SUV,Diesel,Automatic,1,1449000,5.0,72450.0,1376550.0,1153040.86,223509.14,Direct,Cash,Returning
+CS0474,2025-07-23,2025,Jul,7,Mumbai,Maharashtra,Mahindra,Scorpio,SUV,Petrol,Automatic,1,1558000,5.0,77900.0,1480100.0,1232787.56,247312.44,Online,UPI,Fleet
+CS0060,2025-07-25,2025,Jul,7,Lucknow,Uttar Pradesh,Mahindra,XUV500,SUV,Petrol,Automatic,1,1452000,2.0,29040.0,1422960.0,1288816.41,134143.59,Dealer,Loan,Returning
+CS0134,2025-07-26,2025,Jul,7,Mumbai,Maharashtra,Maruti Suzuki,Baleno,Hatchback,Diesel,Manual,1,771000,0.0,0.0,771000.0,668204.14,102795.86,Direct,Card,Returning
+CS0083,2025-07-27,2025,Jul,7,Hyderabad,Telangana,Hyundai,Creta,SUV,Petrol,Automatic,1,1283000,10.0,128300.0,1154700.0,1088745.49,65954.51,Online,UPI,Fleet
+CS0275,2025-07-27,2025,Jul,7,Pune,Maharashtra,Hyundai,Creta,SUV,CNG,Manual,1,1285000,7.0,89950.0,1195050.0,1006985.68,188064.32,Dealer,Loan,New
+CS0296,2025-07-27,2025,Jul,7,Chennai,Tamil Nadu,Maruti Suzuki,Swift,Hatchback,Diesel,Automatic,1,677000,2.0,13540.0,663460.0,542800.05,120659.95,Online,Cash,New
+CS0082,2025-08-01,2025,Aug,8,Kolkata,West Bengal,Mahindra,Scorpio,SUV,Petrol,Manual,1,1585000,7.0,110950.0,1474050.0,1268802.82,205247.18,Dealer,Loan,Returning
+CS0123,2025-08-02,2025,Aug,8,Jaipur,Rajasthan,MG,MG ZS EV,Electric,Electric,Manual,1,2423000,0.0,0.0,2423000.0,1914756.27,508243.73,Direct,Loan,Returning
+CS0010,2025-08-03,2025,Aug,8,Lucknow,Uttar Pradesh,Maruti Suzuki,Dzire,Sedan,Diesel,Automatic,1,789000,3.0,23670.0,765330.0,647687.28,117642.72,Direct,UPI,New
+CS0078,2025-08-03,2025,Aug,8,Kolkata,West Bengal,Maruti Suzuki,WagonR,Hatchback,CNG,Automatic,1,587000,0.0,0.0,587000.0,475185.26,111814.74,Online,Card,Fleet
+CS0393,2025-08-03,2025,Aug,8,Delhi,Delhi,Maruti Suzuki,Dzire,Sedan,Diesel,Automatic,1,728000,7.0,50960.0,677040.0,619225.35,57814.65,Online,UPI,New
+CS0118,2025-08-04,2025,Aug,8,Ahmedabad,Gujarat,Skoda,Slavia,Sedan,CNG,Manual,1,1659000,3.0,49770.0,1609230.0,1362970.56,246259.44,Direct,Card,Returning
+CS0088,2025-08-05,2025,Aug,8,Jaipur,Rajasthan,Hyundai,i20,Hatchback,Petrol,Manual,1,916000,0.0,0.0,916000.0,749913.13,166086.87,Online,Cash,New
+CS0475,2025-08-06,2025,Aug,8,Chennai,Tamil Nadu,Tata Motors,Nexon EV,Electric,Electric,Manual,1,1589000,5.0,79450.0,1509550.0,1407023.7,102526.3,Online,Card,Fleet
+CS0070,2025-08-06,2025,Aug,8,Bengaluru,Karnataka,Tata Motors,Punch EV,Electric,Electric,Automatic,1,1279000,3.0,38370.0,1240630.0,1014068.76,226561.24,Online,Cash,Returning
+CS0218,2025-08-06,2025,Aug,8,Mumbai,Maharashtra,Tata Motors,Tiago EV,Electric,Electric,Manual,1,984000,3.0,29520.0,954480.0,814467.95,140012.05,Direct,Card,Returning
+CS0130,2025-08-06,2025,Aug,8,Bengaluru,Karnataka,Maruti Suzuki,Swift,Hatchback,Diesel,Automatic,1,655000,5.0,32750.0,622250.0,512895.37,109354.63,Online,Loan,Fleet
+CS0469,2025-08-08,2025,Aug,8,Kolkata,West Bengal,Mahindra,XUV500,SUV,Petrol,Manual,1,1444000,2.0,28880.0,1415120.0,1255100.52,160019.48,Direct,UPI,Returning
+CS0332,2025-08-08,2025,Aug,8,Ahmedabad,Gujarat,Kia,Seltos,SUV,Petrol,Automatic,1,1507000,2.0,30140.0,1476860.0,1291373.39,185486.61,Direct,UPI,Fleet
+CS0209,2025-08-08,2025,Aug,8,Bengaluru,Karnataka,Maruti Suzuki,WagonR,Hatchback,Petrol,Automatic,1,626000,2.0,12520.0,613480.0,493339.38,120140.62,Direct,Loan,Fleet
+CS0481,2025-08-10,2025,Aug,8,Delhi,Delhi,Kia,Seltos,SUV,Petrol,Manual,1,1429000,5.0,71450.0,1357550.0,1223356.16,134193.84,Direct,Cash,Returning
+CS0145,2025-08-10,2025,Aug,8,Ahmedabad,Gujarat,Hyundai,Creta,SUV,Diesel,Manual,1,1278000,10.0,127800.0,1150200.0,1023168.74,127031.26,Online,Cash,Returning
+CS0355,2025-08-11,2025,Aug,8,Chennai,Tamil Nadu,Mahindra,Scorpio,SUV,Petrol,Manual,1,1719000,7.0,120330.0,1598670.0,1503142.43,95527.57,Direct,Card,Fleet
+CS0491,2025-08-11,2025,Aug,8,Chennai,Tamil Nadu,Maruti Suzuki,Baleno,Hatchback,Diesel,Automatic,1,785000,2.0,15700.0,769300.0,652036.21,117263.79,Direct,UPI,Returning
+CS0212,2025-08-12,2025,Aug,8,Lucknow,Uttar Pradesh,Maruti Suzuki,WagonR,Hatchback,Diesel,Manual,1,577000,5.0,28850.0,548150.0,451591.83,96558.17,Online,Cash,Returning
+CS0213,2025-08-13,2025,Aug,8,Ahmedabad,Gujarat,Honda,Honda City,Sedan,Diesel,Automatic,1,1420000,3.0,42600.0,1377400.0,1224033.53,153366.47,Dealer,Card,New
+CS0186,2025-08-13,2025,Aug,8,Ahmedabad,Gujarat,Hyundai,i20,Hatchback,Petrol,Automatic,1,835000,2.0,16700.0,818300.0,729414.36,88885.64,Online,Cash,New
+CS0175,2025-08-13,2025,Aug,8,Lucknow,Uttar Pradesh,Kia,Seltos,SUV,CNG,Manual,1,1478000,10.0,147800.0,1330200.0,1329833.59,366.41,Online,Cash,Returning
+CS0318,2025-08-14,2025,Aug,8,Hyderabad,Telangana,Tata Motors,Punch EV,Electric,Electric,Manual,1,1303000,0.0,0.0,1303000.0,1047757.99,255242.01,Direct,UPI,Fleet
+CS0287,2025-08-15,2025,Aug,8,Jaipur,Rajasthan,Mahindra,Scorpio,SUV,Petrol,Automatic,1,1628000,3.0,48840.0,1579160.0,1274849.43,304310.57,Online,Card,New
+CS0125,2025-08-15,2025,Aug,8,Chennai,Tamil Nadu,Hyundai,Creta,SUV,Petrol,Manual,1,1334000,2.0,26680.0,1307320.0,1073358.75,233961.25,Dealer,Loan,Returning
+CS0439,2025-08-17,2025,Aug,8,Hyderabad,Telangana,Tata Motors,Tiago EV,Electric,Electric,Manual,1,1024000,2.0,20480.0,1003520.0,816010.63,187509.37,Dealer,UPI,Fleet
+CS0312,2025-08-18,2025,Aug,8,Kolkata,West Bengal,MG,MG ZS EV,Electric,Electric,Automatic,1,2397000,2.0,47940.0,2349060.0,1934855.45,414204.55,Direct,UPI,Fleet
+CS0173,2025-08-19,2025,Aug,8,Delhi,Delhi,Hyundai,Creta,SUV,Petrol,Automatic,1,1292000,7.0,90440.0,1201560.0,1043878.04,157681.96,Online,Cash,New
+CS0108,2025-08-19,2025,Aug,8,Hyderabad,Telangana,Skoda,Slavia,Sedan,Diesel,Automatic,1,1656000,2.0,33120.0,1622880.0,1407611.62,215268.38,Online,UPI,Returning
+CS0141,2025-08-19,2025,Aug,8,Jaipur,Rajasthan,Honda,Honda City,Sedan,CNG,Manual,1,1449000,2.0,28980.0,1420020.0,1262995.78,157024.22,Online,Loan,Fleet
+CS0146,2025-08-19,2025,Aug,8,Lucknow,Uttar Pradesh,Maruti Suzuki,WagonR,Hatchback,Diesel,Manual,1,641000,0.0,0.0,641000.0,509037.41,131962.59,Online,Cash,New
+CS0337,2025-08-21,2025,Aug,8,Hyderabad,Telangana,Hyundai,Creta,SUV,CNG,Manual,1,1264000,10.0,126400.0,1137600.0,1033216.27,104383.73,Direct,Card,Fleet
+CS0179,2025-08-21,2025,Aug,8,Ahmedabad,Gujarat,Hyundai,i20,Hatchback,Petrol,Manual,1,845000,2.0,16900.0,828100.0,689145.64,138954.36,Online,Loan,New
+CS0271,2025-08-21,2025,Aug,8,Kolkata,West Bengal,Maruti Suzuki,WagonR,Hatchback,Petrol,Automatic,1,626000,2.0,12520.0,613480.0,503443.23,110036.77,Online,Card,New
+CS0194,2025-08-21,2025,Aug,8,Pune,Maharashtra,Maruti Suzuki,Dzire,Sedan,Petrol,Manual,1,743000,3.0,22290.0,720710.0,644040.14,76669.86,Direct,UPI,Fleet
+CS0188,2025-08-22,2025,Aug,8,Pune,Maharashtra,Tata Motors,Nexon EV,Electric,Electric,Manual,1,1471000,10.0,147100.0,1323900.0,1217324.64,106575.36,Dealer,Loan,Returning
+CS0028,2025-08-24,2025,Aug,8,Jaipur,Rajasthan,Mahindra,Scorpio,SUV,CNG,Automatic,1,1607000,10.0,160700.0,1446300.0,1308556.72,137743.28,Dealer,Loan,New
+CS0084,2025-08-25,2025,Aug,8,Lucknow,Uttar Pradesh,Maruti Suzuki,WagonR,Hatchback,Petrol,Manual,1,589000,5.0,29450.0,559550.0,482297.65,77252.35,Online,Card,Fleet
+CS0147,2025-08-25,2025,Aug,8,Ahmedabad,Gujarat,Kia,Seltos,SUV,Diesel,Manual,1,1437000,2.0,28740.0,1408260.0,1233190.93,175069.07,Online,Cash,Fleet
+CS0455,2025-08-25,2025,Aug,8,Mumbai,Maharashtra,Maruti Suzuki,Baleno,Hatchback,Diesel,Manual,1,828000,0.0,0.0,828000.0,668412.56,159587.44,Online,Cash,New
+CS0473,2025-08-26,2025,Aug,8,Pune,Maharashtra,Tata Motors,Punch EV,Electric,Electric,Automatic,1,1278000,7.0,89460.0,1188540.0,1006599.97,181940.03,Dealer,UPI,New
+CS0309,2025-08-26,2025,Aug,8,Lucknow,Uttar Pradesh,Hyundai,Verna,Sedan,Petrol,Automatic,1,1307000,3.0,39210.0,1267790.0,1128061.69,139728.31,Direct,Loan,Returning
+CS0448,2025-08-27,2025,Aug,8,Ahmedabad,Gujarat,Honda,Honda City,Sedan,Diesel,Automatic,1,1429000,3.0,42870.0,1386130.0,1193374.8,192755.2,Direct,Cash,New
+CS0232,2025-08-28,2025,Aug,8,Delhi,Delhi,Hyundai,Verna,Sedan,Diesel,Automatic,1,1305000,5.0,65250.0,1239750.0,1105540.98,134209.02,Dealer,Loan,Returning
+CS0142,2025-08-29,2025,Aug,8,Mumbai,Maharashtra,Hyundai,i20,Hatchback,Diesel,Automatic,1,865000,7.0,60550.0,804450.0,767554.52,36895.48,Online,UPI,New
+CS0052,2025-08-30,2025,Aug,8,Chennai,Tamil Nadu,Tata Motors,Nexon,SUV,Petrol,Manual,1,936000,5.0,46800.0,889200.0,745397.24,143802.76,Direct,Card,Returning
+CS0156,2025-08-31,2025,Aug,8,Jaipur,Rajasthan,Hyundai,i20,Hatchback,CNG,Manual,1,821000,5.0,41050.0,779950.0,689282.0,90668.0,Dealer,Card,Fleet
+CS0040,2025-09-01,2025,Sep,9,Bengaluru,Karnataka,Skoda,Slavia,Sedan,Petrol,Automatic,1,1649000,10.0,164900.0,1484100.0,1295167.87,188932.13,Dealer,Cash,Fleet
+CS0486,2025-09-03,2025,Sep,9,Pune,Maharashtra,Maruti Suzuki,Swift,Hatchback,Petrol,Automatic,1,626000,2.0,12520.0,613480.0,496394.89,117085.11,Direct,UPI,New
+CS0371,2025-09-03,2025,Sep,9,Jaipur,Rajasthan,Tata Motors,Nexon,SUV,Diesel,Manual,1,950000,0.0,0.0,950000.0,846801.53,103198.47,Direct,UPI,New
+CS0375,2025-09-04,2025,Sep,9,Pune,Maharashtra,Tata Motors,Nexon,SUV,Petrol,Automatic,1,1008000,7.0,70560.0,937440.0,897393.35,40046.65,Direct,Card,New
+CS0221,2025-09-04,2025,Sep,9,Pune,Maharashtra,Maruti Suzuki,Dzire,Sedan,CNG,Manual,1,762000,7.0,53340.0,708660.0,682891.61,25768.39,Online,Card,Returning
+CS0462,2025-09-04,2025,Sep,9,Chennai,Tamil Nadu,Maruti Suzuki,Dzire,Sedan,Petrol,Manual,1,729000,10.0,72900.0,656100.0,605584.54,50515.46,Direct,Card,Returning
+CS0484,2025-09-07,2025,Sep,9,Jaipur,Rajasthan,Honda,Honda City,Sedan,Diesel,Automatic,1,1327000,3.0,39810.0,1287190.0,1132320.62,154869.38,Dealer,Loan,New
+CS0492,2025-09-07,2025,Sep,9,Chennai,Tamil Nadu,Skoda,Slavia,Sedan,Petrol,Manual,1,1620000,7.0,113400.0,1506600.0,1381776.77,124823.23,Dealer,Loan,Fleet
+CS0079,2025-09-09,2025,Sep,9,Bengaluru,Karnataka,Maruti Suzuki,WagonR,Hatchback,CNG,Automatic,1,596000,2.0,11920.0,584080.0,477279.68,106800.32,Online,UPI,New
+CS0242,2025-09-09,2025,Sep,9,Lucknow,Uttar Pradesh,Hyundai,i20,Hatchback,Petrol,Manual,1,832000,2.0,16640.0,815360.0,735998.87,79361.13,Online,UPI,New
+CS0089,2025-09-09,2025,Sep,9,Bengaluru,Karnataka,Tata Motors,Nexon,SUV,Diesel,Manual,1,989000,2.0,19780.0,969220.0,861643.84,107576.16,Dealer,UPI,Returning
+CS0259,2025-09-09,2025,Sep,9,Chennai,Tamil Nadu,Maruti Suzuki,Baleno,Hatchback,Petrol,Automatic,1,791000,10.0,79100.0,711900.0,639385.91,72514.09,Online,Card,Fleet
+CS0348,2025-09-10,2025,Sep,9,Delhi,Delhi,Hyundai,i20,Hatchback,Petrol,Automatic,1,865000,3.0,25950.0,839050.0,676692.16,162357.84,Online,Card,Fleet
+CS0027,2025-09-10,2025,Sep,9,Hyderabad,Telangana,Maruti Suzuki,WagonR,Hatchback,CNG,Manual,1,622000,0.0,0.0,622000.0,540844.79,81155.21,Direct,UPI,Returning
+CS0266,2025-09-11,2025,Sep,9,Ahmedabad,Gujarat,Tata Motors,Tiago EV,Electric,Electric,Automatic,1,925000,0.0,0.0,925000.0,771694.09,153305.91,Dealer,Loan,New
+CS0480,2025-09-11,2025,Sep,9,Pune,Maharashtra,Skoda,Slavia,Sedan,Diesel,Manual,1,1609000,3.0,48270.0,1560730.0,1438548.54,122181.46,Direct,UPI,New
+CS0286,2025-09-11,2025,Sep,9,Ahmedabad,Gujarat,Hyundai,Creta,SUV,Diesel,Manual,1,1269000,5.0,63450.0,1205550.0,1047653.78,157896.22,Online,UPI,Fleet
+CS0226,2025-09-12,2025,Sep,9,Jaipur,Rajasthan,Honda,Honda City,Sedan,Diesel,Manual,1,1375000,2.0,27500.0,1347500.0,1083094.47,264405.53,Online,UPI,Returning
+CS0131,2025-09-12,2025,Sep,9,Jaipur,Rajasthan,Maruti Suzuki,WagonR,Hatchback,Petrol,Automatic,1,623000,5.0,31150.0,591850.0,487965.7,103884.3,Online,Card,Returning
+CS0350,2025-09-13,2025,Sep,9,Mumbai,Maharashtra,Hyundai,i20,Hatchback,Petrol,Automatic,1,840000,0.0,0.0,840000.0,753568.07,86431.93,Direct,Cash,New
+CS0495,2025-09-14,2025,Sep,9,Chennai,Tamil Nadu,Maruti Suzuki,WagonR,Hatchback,Petrol,Manual,1,625000,5.0,31250.0,593750.0,496086.57,97663.43,Dealer,UPI,Fleet
+CS0128,2025-09-14,2025,Sep,9,Lucknow,Uttar Pradesh,Maruti Suzuki,Dzire,Sedan,CNG,Automatic,1,770000,3.0,23100.0,746900.0,614944.2,131955.8,Direct,UPI,New
+CS0019,2025-09-15,2025,Sep,9,Lucknow,Uttar Pradesh,Tata Motors,Nexon EV,Electric,Electric,Automatic,1,1461000,2.0,29220.0,1431780.0,1164649.3,267130.7,Direct,Card,Fleet
+CS0240,2025-09-16,2025,Sep,9,Jaipur,Rajasthan,Tata Motors,Nexon EV,Electric,Electric,Automatic,1,1587000,3.0,47610.0,1539390.0,1323999.49,215390.51,Direct,Cash,Fleet
+CS0180,2025-09-16,2025,Sep,9,Mumbai,Maharashtra,Hyundai,i20,Hatchback,CNG,Manual,1,817000,0.0,0.0,817000.0,734096.3,82903.7,Direct,Loan,New
+CS0067,2025-09-17,2025,Sep,9,Mumbai,Maharashtra,Tata Motors,Nexon,SUV,CNG,Automatic,1,935000,2.0,18700.0,916300.0,770866.97,145433.03,Direct,UPI,Fleet
+CS0107,2025-09-18,2025,Sep,9,Jaipur,Rajasthan,Tata Motors,Nexon,SUV,Diesel,Manual,1,973000,5.0,48650.0,924350.0,788340.06,136009.94,Dealer,UPI,New
+CS0419,2025-09-19,2025,Sep,9,Jaipur,Rajasthan,Tata Motors,Punch EV,Electric,Electric,Manual,1,1298000,2.0,25960.0,1272040.0,1043295.69,228744.31,Online,Loan,New
+CS0258,2025-09-20,2025,Sep,9,Chennai,Tamil Nadu,Maruti Suzuki,WagonR,Hatchback,Petrol,Manual,1,599000,5.0,29950.0,569050.0,522817.25,46232.75,Online,UPI,New
+CS0058,2025-09-21,2025,Sep,9,Hyderabad,Telangana,Honda,Honda City,Sedan,Petrol,Manual,1,1334000,5.0,66700.0,1267300.0,1052664.2,214635.8,Online,Cash,New
+CS0315,2025-09-21,2025,Sep,9,Pune,Maharashtra,Tata Motors,Nexon,SUV,CNG,Automatic,1,948000,3.0,28440.0,919560.0,777322.3,142237.7,Online,Cash,Fleet
+CS0412,2025-09-21,2025,Sep,9,Kolkata,West Bengal,Hyundai,i20,Hatchback,CNG,Manual,1,841000,2.0,16820.0,824180.0,747439.21,76740.79,Online,UPI,Returning
+CS0386,2025-09-21,2025,Sep,9,Bengaluru,Karnataka,Mahindra,Scorpio,SUV,CNG,Manual,1,1572000,5.0,78600.0,1493400.0,1293199.75,200200.25,Direct,Card,Fleet
+CS0053,2025-09-22,2025,Sep,9,Delhi,Delhi,Maruti Suzuki,Swift,Hatchback,Diesel,Manual,1,670000,2.0,13400.0,656600.0,554136.42,102463.58,Direct,UPI,New
+CS0254,2025-09-24,2025,Sep,9,Mumbai,Maharashtra,Tata Motors,Tiago EV,Electric,Electric,Automatic,1,939000,0.0,0.0,939000.0,841876.8,97123.2,Dealer,Cash,Returning
+CS0114,2025-09-25,2025,Sep,9,Bengaluru,Karnataka,MG,MG ZS EV,Electric,Electric,Automatic,1,2336000,3.0,70080.0,2265920.0,2098150.68,167769.32,Dealer,Cash,Fleet
+CS0199,2025-09-25,2025,Sep,9,Chennai,Tamil Nadu,Hyundai,Creta,SUV,CNG,Automatic,1,1330000,7.0,93100.0,1236900.0,1150454.73,86445.27,Online,UPI,New
+CS0427,2025-09-26,2025,Sep,9,Kolkata,West Bengal,Hyundai,Creta,SUV,Diesel,Automatic,1,1276000,0.0,0.0,1276000.0,1118756.52,157243.48,Direct,Loan,Fleet
+CS0074,2025-09-27,2025,Sep,9,Delhi,Delhi,Mahindra,XUV500,SUV,Petrol,Automatic,1,1478000,7.0,103460.0,1374540.0,1168256.18,206283.82,Direct,Cash,Returning
+CS0077,2025-09-28,2025,Sep,9,Jaipur,Rajasthan,Kia,Seltos,SUV,Petrol,Manual,1,1509000,2.0,30180.0,1478820.0,1286713.7,192106.3,Dealer,Card,New
+CS0409,2025-09-28,2025,Sep,9,Ahmedabad,Gujarat,Skoda,Slavia,Sedan,Diesel,Automatic,1,1623000,3.0,48690.0,1574310.0,1415031.29,159278.71,Direct,Cash,Returning
+CS0034,2025-09-28,2025,Sep,9,Delhi,Delhi,Maruti Suzuki,WagonR,Hatchback,CNG,Manual,1,640000,10.0,64000.0,576000.0,534194.44,41805.56,Dealer,Card,Fleet
+CS0003,2025-09-28,2025,Sep,9,Hyderabad,Telangana,Hyundai,Creta,SUV,CNG,Manual,1,1257000,10.0,125700.0,1131300.0,1125445.98,5854.02,Direct,Loan,Fleet
+CS0456,2025-09-29,2025,Sep,9,Mumbai,Maharashtra,Tata Motors,Nexon,SUV,CNG,Manual,1,985000,2.0,19700.0,965300.0,850348.6,114951.4,Dealer,UPI,Returning
+CS0368,2025-09-30,2025,Sep,9,Hyderabad,Telangana,Kia,Seltos,SUV,CNG,Manual,1,1433000,5.0,71650.0,1361350.0,1124953.93,236396.07,Dealer,UPI,Fleet
+CS0048,2025-10-01,2025,Oct,10,Mumbai,Maharashtra,Mahindra,Scorpio,SUV,Petrol,Automatic,1,1604000,5.0,80200.0,1523800.0,1272977.57,250822.43,Online,Loan,Returning
+CS0435,2025-10-02,2025,Oct,10,Chennai,Tamil Nadu,Tata Motors,Nexon EV,Electric,Electric,Automatic,1,1534000,2.0,30680.0,1503320.0,1249376.36,253943.64,Direct,Cash,Fleet
+CS0319,2025-10-04,2025,Oct,10,Bengaluru,Karnataka,Mahindra,Scorpio,SUV,Petrol,Manual,1,1622000,0.0,0.0,1622000.0,1412339.63,209660.37,Dealer,Cash,Fleet
+CS0023,2025-10-04,2025,Oct,10,Bengaluru,Karnataka,Honda,Honda City,Sedan,Diesel,Manual,1,1449000,7.0,101430.0,1347570.0,1301665.86,45904.14,Direct,Cash,Fleet
+CS0301,2025-10-04,2025,Oct,10,Ahmedabad,Gujarat,Hyundai,i20,Hatchback,CNG,Automatic,1,857000,5.0,42850.0,814150.0,754831.34,59318.66,Direct,Cash,New
+CS0460,2025-10-05,2025,Oct,10,Mumbai,Maharashtra,Tata Motors,Tiago EV,Electric,Electric,Automatic,1,975000,5.0,48750.0,926250.0,773485.77,152764.23,Online,Card,Returning
+CS0442,2025-10-06,2025,Oct,10,Bengaluru,Karnataka,MG,MG ZS EV,Electric,Electric,Manual,1,2449000,7.0,171430.0,2277570.0,2194439.17,83130.83,Dealer,Loan,Fleet
+CS0087,2025-10-07,2025,Oct,10,Jaipur,Rajasthan,Skoda,Slavia,Sedan,Petrol,Automatic,1,1497000,3.0,44910.0,1452090.0,1228127.59,223962.41,Online,Card,Fleet
+CS0228,2025-10-07,2025,Oct,10,Mumbai,Maharashtra,Hyundai,Verna,Sedan,CNG,Automatic,1,1210000,0.0,0.0,1210000.0,1000790.06,209209.94,Online,UPI,Fleet
+CS0499,2025-10-07,2025,Oct,10,Mumbai,Maharashtra,Honda,Honda City,Sedan,Petrol,Manual,1,1297000,5.0,64850.0,1232150.0,1110661.99,121488.01,Dealer,Loan,New
+CS0339,2025-10-07,2025,Oct,10,Bengaluru,Karnataka,Hyundai,i20,Hatchback,Diesel,Automatic,1,882000,5.0,44100.0,837900.0,704050.31,133849.69,Dealer,Loan,Fleet
+CS0361,2025-10-07,2025,Oct,10,Mumbai,Maharashtra,Maruti Suzuki,Baleno,Hatchback,CNG,Manual,1,755000,5.0,37750.0,717250.0,595355.86,121894.14,Dealer,UPI,Returning
+CS0354,2025-10-08,2025,Oct,10,Hyderabad,Telangana,Hyundai,Verna,Sedan,Diesel,Manual,1,1259000,3.0,37770.0,1221230.0,1051433.22,169796.78,Direct,Loan,Returning
+CS0316,2025-10-10,2025,Oct,10,Lucknow,Uttar Pradesh,Kia,Seltos,SUV,Diesel,Automatic,1,1455000,10.0,145500.0,1309500.0,1232288.98,77211.02,Dealer,UPI,New
+CS0176,2025-10-10,2025,Oct,10,Chennai,Tamil Nadu,Skoda,Slavia,Sedan,Petrol,Automatic,1,1562000,5.0,78100.0,1483900.0,1308307.89,175592.11,Dealer,Card,Returning
+CS0133,2025-10-10,2025,Oct,10,Kolkata,West Bengal,Maruti Suzuki,WagonR,Hatchback,Petrol,Automatic,1,588000,7.0,41160.0,546840.0,504697.77,42142.23,Dealer,UPI,Returning
+CS0322,2025-10-11,2025,Oct,10,Jaipur,Rajasthan,Tata Motors,Punch EV,Electric,Electric,Manual,1,1326000,3.0,39780.0,1286220.0,1117174.83,169045.17,Online,UPI,Returning
+CS0164,2025-10-11,2025,Oct,10,Mumbai,Maharashtra,Hyundai,Creta,SUV,CNG,Manual,1,1273000,2.0,25460.0,1247540.0,1026731.95,220808.05,Online,Card,New
+CS0158,2025-10-11,2025,Oct,10,Mumbai,Maharashtra,Hyundai,i20,Hatchback,Diesel,Automatic,1,866000,5.0,43300.0,822700.0,747018.78,75681.22,Direct,UPI,Fleet
+CS0468,2025-10-12,2025,Oct,10,Mumbai,Maharashtra,Maruti Suzuki,WagonR,Hatchback,CNG,Manual,1,609000,0.0,0.0,609000.0,497036.47,111963.53,Online,Cash,Returning
+CS0169,2025-10-13,2025,Oct,10,Mumbai,Maharashtra,Mahindra,Scorpio,SUV,Diesel,Manual,1,1695000,2.0,33900.0,1661100.0,1329627.35,331472.65,Online,Cash,Returning
+CS0320,2025-10-13,2025,Oct,10,Hyderabad,Telangana,Honda,Honda City,Sedan,Petrol,Manual,1,1424000,5.0,71200.0,1352800.0,1269156.15,83643.85,Online,UPI,Fleet
+CS0392,2025-10-15,2025,Oct,10,Bengaluru,Karnataka,Skoda,Slavia,Sedan,CNG,Automatic,1,1488000,5.0,74400.0,1413600.0,1271273.87,142326.13,Online,UPI,New
+CS0363,2025-10-15,2025,Oct,10,Delhi,Delhi,Maruti Suzuki,Baleno,Hatchback,Petrol,Manual,1,821000,2.0,16420.0,804580.0,705538.23,99041.77,Direct,Cash,Fleet
+CS0300,2025-10-16,2025,Oct,10,Lucknow,Uttar Pradesh,Mahindra,XUV500,SUV,Diesel,Automatic,1,1545000,7.0,108150.0,1436850.0,1247385.99,189464.01,Direct,UPI,New
+CS0106,2025-10-16,2025,Oct,10,Mumbai,Maharashtra,Hyundai,i20,Hatchback,Petrol,Automatic,1,889000,2.0,17780.0,871220.0,770233.5,100986.5,Online,Loan,Fleet
+CS0479,2025-10-16,2025,Oct,10,Delhi,Delhi,Hyundai,Creta,SUV,CNG,Automatic,1,1276000,2.0,25520.0,1250480.0,1011238.9,239241.1,Dealer,UPI,New
+CS0449,2025-10-17,2025,Oct,10,Jaipur,Rajasthan,Maruti Suzuki,Dzire,Sedan,Petrol,Manual,1,794000,3.0,23820.0,770180.0,651258.62,118921.38,Dealer,Card,Returning
+CS0489,2025-10-17,2025,Oct,10,Jaipur,Rajasthan,Mahindra,Scorpio,SUV,CNG,Manual,1,1602000,0.0,0.0,1602000.0,1347104.87,254895.13,Direct,Cash,Fleet
+CS0119,2025-10-20,2025,Oct,10,Chennai,Tamil Nadu,Skoda,Slavia,Sedan,CNG,Automatic,1,1572000,5.0,78600.0,1493400.0,1268529.45,224870.55,Online,Cash,Fleet
+CS0021,2025-10-21,2025,Oct,10,Mumbai,Maharashtra,Mahindra,Scorpio,SUV,Diesel,Automatic,1,1693000,0.0,0.0,1693000.0,1464020.17,228979.83,Dealer,Card,New
+CS0227,2025-10-21,2025,Oct,10,Lucknow,Uttar Pradesh,Tata Motors,Nexon,SUV,Diesel,Manual,1,1002000,2.0,20040.0,981960.0,818877.92,163082.08,Direct,UPI,New
+CS0200,2025-10-22,2025,Oct,10,Bengaluru,Karnataka,Hyundai,Creta,SUV,CNG,Automatic,1,1302000,5.0,65100.0,1236900.0,1112211.84,124688.16,Dealer,Loan,Fleet
+CS0081,2025-10-23,2025,Oct,10,Mumbai,Maharashtra,Tata Motors,Punch EV,Electric,Electric,Automatic,1,1259000,0.0,0.0,1259000.0,1128487.59,130512.41,Dealer,UPI,Returning
+CS0256,2025-10-25,2025,Oct,10,Bengaluru,Karnataka,Hyundai,Creta,SUV,Petrol,Automatic,1,1277000,3.0,38310.0,1238690.0,1051108.92,187581.08,Dealer,UPI,New
+CS0370,2025-10-26,2025,Oct,10,Ahmedabad,Gujarat,Tata Motors,Nexon,SUV,Petrol,Automatic,1,997000,5.0,49850.0,947150.0,874780.14,72369.86,Direct,UPI,Returning
+CS0094,2025-10-28,2025,Oct,10,Jaipur,Rajasthan,Hyundai,Creta,SUV,CNG,Manual,1,1224000,2.0,24480.0,1199520.0,978847.36,220672.64,Direct,Loan,Returning
+CS0341,2025-10-29,2025,Oct,10,Jaipur,Rajasthan,Tata Motors,Punch EV,Electric,Electric,Manual,1,1304000,0.0,0.0,1304000.0,1171046.08,132953.92,Direct,Card,Fleet
+CS0274,2025-10-31,2025,Oct,10,Mumbai,Maharashtra,Mahindra,Scorpio,SUV,CNG,Automatic,1,1667000,10.0,166700.0,1500300.0,1399714.84,100585.16,Online,Loan,Fleet
+CS0265,2025-10-31,2025,Oct,10,Mumbai,Maharashtra,Maruti Suzuki,Swift,Hatchback,CNG,Automatic,1,628000,2.0,12560.0,615440.0,529868.94,85571.06,Online,Loan,New
+CS0076,2025-10-31,2025,Oct,10,Delhi,Delhi,Hyundai,i20,Hatchback,Petrol,Automatic,1,853000,2.0,17060.0,835940.0,731456.09,104483.91,Dealer,Loan,Fleet
+CS0302,2025-10-31,2025,Oct,10,Bengaluru,Karnataka,Tata Motors,Nexon EV,Electric,Electric,Automatic,1,1482000,2.0,29640.0,1452360.0,1294768.66,157591.34,Online,Card,New
+CS0324,2025-10-31,2025,Oct,10,Bengaluru,Karnataka,Tata Motors,Nexon,SUV,Petrol,Automatic,1,992000,7.0,69440.0,922560.0,778064.53,144495.47,Online,Loan,Fleet
+CS0405,2025-11-01,2025,Nov,11,Mumbai,Maharashtra,Mahindra,Scorpio,SUV,CNG,Manual,1,1635000,2.0,32700.0,1602300.0,1333909.96,268390.04,Direct,Loan,Fleet
+CS0378,2025-11-02,2025,Nov,11,Mumbai,Maharashtra,Mahindra,XUV500,SUV,CNG,Manual,1,1555000,10.0,155500.0,1399500.0,1220956.22,178543.78,Dealer,Loan,Fleet
+CS0043,2025-11-03,2025,Nov,11,Hyderabad,Telangana,Mahindra,XUV500,SUV,Diesel,Manual,1,1473000,7.0,103110.0,1369890.0,1222263.5,147626.5,Direct,Loan,Fleet
+CS0187,2025-11-03,2025,Nov,11,Lucknow,Uttar Pradesh,Skoda,Slavia,Sedan,Diesel,Manual,1,1668000,0.0,0.0,1668000.0,1477938.58,190061.42,Online,Card,New
+CS0248,2025-11-04,2025,Nov,11,Mumbai,Maharashtra,Mahindra,Scorpio,SUV,Petrol,Manual,1,1617000,5.0,80850.0,1536150.0,1328385.23,207764.77,Online,Card,New
+CS0425,2025-11-04,2025,Nov,11,Chennai,Tamil Nadu,Honda,Honda City,Sedan,CNG,Manual,1,1449000,0.0,0.0,1449000.0,1278013.72,170986.28,Direct,Loan,Returning
+CS0018,2025-11-05,2025,Nov,11,Mumbai,Maharashtra,Maruti Suzuki,Dzire,Sedan,Petrol,Manual,1,769000,0.0,0.0,769000.0,640564.43,128435.57,Direct,Card,Fleet
+CS0068,2025-11-06,2025,Nov,11,Chennai,Tamil Nadu,Maruti Suzuki,Dzire,Sedan,CNG,Automatic,1,753000,5.0,37650.0,715350.0,629134.64,86215.36,Direct,Card,Returning
+CS0294,2025-11-06,2025,Nov,11,Jaipur,Rajasthan,Skoda,Slavia,Sedan,Diesel,Automatic,1,1588000,7.0,111160.0,1476840.0,1297962.8,178877.2,Dealer,Cash,Returning
+CS0424,2025-11-07,2025,Nov,11,Ahmedabad,Gujarat,Tata Motors,Nexon,SUV,Diesel,Manual,1,921000,3.0,27630.0,893370.0,769031.39,124338.61,Online,UPI,Returning
+CS0381,2025-11-09,2025,Nov,11,Mumbai,Maharashtra,Mahindra,XUV500,SUV,Diesel,Automatic,1,1480000,5.0,74000.0,1406000.0,1207244.6,198755.4,Online,Card,New
+CS0025,2025-11-10,2025,Nov,11,Hyderabad,Telangana,Mahindra,XUV500,SUV,CNG,Manual,1,1549000,3.0,46470.0,1502530.0,1228889.39,273640.61,Dealer,Card,New
+CS0402,2025-11-10,2025,Nov,11,Pune,Maharashtra,Tata Motors,Nexon,SUV,Diesel,Manual,1,958000,0.0,0.0,958000.0,843783.67,114216.33,Online,UPI,Fleet
+CS0191,2025-11-11,2025,Nov,11,Hyderabad,Telangana,Tata Motors,Nexon,SUV,Diesel,Automatic,1,1012000,0.0,0.0,1012000.0,821614.47,190385.53,Online,Card,Returning
+CS0380,2025-11-12,2025,Nov,11,Ahmedabad,Gujarat,Maruti Suzuki,WagonR,Hatchback,Petrol,Manual,1,636000,3.0,19080.0,616920.0,552007.41,64912.59,Online,Cash,Fleet
+CS0050,2025-11-12,2025,Nov,11,Bengaluru,Karnataka,Mahindra,XUV500,SUV,Diesel,Manual,1,1489000,3.0,44670.0,1444330.0,1318060.47,126269.53,Dealer,Loan,Returning
+CS0323,2025-11-13,2025,Nov,11,Mumbai,Maharashtra,Mahindra,XUV500,SUV,CNG,Manual,1,1523000,0.0,0.0,1523000.0,1211280.92,311719.08,Direct,Cash,New
+CS0184,2025-11-14,2025,Nov,11,Bengaluru,Karnataka,Maruti Suzuki,Swift,Hatchback,CNG,Automatic,1,642000,10.0,64200.0,577800.0,573388.06,4411.94,Direct,Cash,Fleet
+CS0197,2025-11-14,2025,Nov,11,Pune,Maharashtra,Mahindra,XUV500,SUV,CNG,Automatic,1,1452000,7.0,101640.0,1350360.0,1250697.53,99662.47,Dealer,UPI,Fleet
+CS0441,2025-11-14,2025,Nov,11,Kolkata,West Bengal,Maruti Suzuki,Baleno,Hatchback,CNG,Manual,1,806000,3.0,24180.0,781820.0,636752.65,145067.35,Dealer,Card,New
+CS0434,2025-11-15,2025,Nov,11,Ahmedabad,Gujarat,Tata Motors,Nexon,SUV,CNG,Automatic,1,955000,7.0,66850.0,888150.0,833785.12,54364.88,Direct,Cash,Fleet
+CS0041,2025-11-16,2025,Nov,11,Pune,Maharashtra,Maruti Suzuki,Swift,Hatchback,Petrol,Manual,1,687000,3.0,20610.0,666390.0,617251.04,49138.96,Direct,Card,Fleet
+CS0385,2025-11-17,2025,Nov,11,Delhi,Delhi,Hyundai,Verna,Sedan,Petrol,Manual,1,1230000,7.0,86100.0,1143900.0,1041330.54,102569.46,Direct,Card,New
+CS0391,2025-11-18,2025,Nov,11,Chennai,Tamil Nadu,Kia,Seltos,SUV,Petrol,Manual,1,1443000,7.0,101010.0,1341990.0,1193336.59,148653.41,Dealer,UPI,New
+CS0351,2025-11-19,2025,Nov,11,Mumbai,Maharashtra,Hyundai,Creta,SUV,Petrol,Manual,1,1273000,10.0,127300.0,1145700.0,1009703.3,135996.7,Online,Cash,New
+CS0358,2025-11-19,2025,Nov,11,Hyderabad,Telangana,Tata Motors,Nexon,SUV,Petrol,Automatic,1,1014000,5.0,50700.0,963300.0,868389.97,94910.03,Direct,Loan,Returning
+CS0222,2025-11-20,2025,Nov,11,Delhi,Delhi,Maruti Suzuki,Swift,Hatchback,Diesel,Automatic,1,684000,7.0,47880.0,636120.0,596797.27,39322.73,Dealer,Cash,Fleet
+CS0229,2025-11-21,2025,Nov,11,Pune,Maharashtra,Honda,Honda City,Sedan,Petrol,Manual,1,1343000,5.0,67150.0,1275850.0,1159543.28,116306.72,Online,UPI,Fleet
+CS0496,2025-11-21,2025,Nov,11,Hyderabad,Telangana,Maruti Suzuki,Dzire,Sedan,Diesel,Manual,1,753000,3.0,22590.0,730410.0,598275.82,132134.18,Dealer,Loan,Returning
+CS0487,2025-11-21,2025,Nov,11,Kolkata,West Bengal,Honda,Honda City,Sedan,Petrol,Automatic,1,1388000,7.0,97160.0,1290840.0,1168029.94,122810.06,Online,Cash,New
+CS0238,2025-11-22,2025,Nov,11,Hyderabad,Telangana,Tata Motors,Nexon,SUV,Diesel,Automatic,1,1011000,5.0,50550.0,960450.0,875213.03,85236.97,Online,UPI,Returning
+CS0408,2025-11-22,2025,Nov,11,Bengaluru,Karnataka,Hyundai,Verna,Sedan,CNG,Automatic,1,1212000,0.0,0.0,1212000.0,1051231.49,160768.51,Online,Cash,Returning
+CS0097,2025-11-23,2025,Nov,11,Mumbai,Maharashtra,Honda,Honda City,Sedan,CNG,Automatic,1,1344000,3.0,40320.0,1303680.0,1168894.44,134785.56,Direct,Cash,Fleet
+CS0154,2025-11-23,2025,Nov,11,Lucknow,Uttar Pradesh,Maruti Suzuki,Baleno,Hatchback,Petrol,Manual,1,793000,5.0,39650.0,753350.0,681694.95,71655.05,Direct,Card,Fleet
+CS0113,2025-11-24,2025,Nov,11,Chennai,Tamil Nadu,Hyundai,Creta,SUV,Petrol,Manual,1,1310000,3.0,39300.0,1270700.0,1168682.49,102017.51,Online,Cash,New
+CS0046,2025-11-25,2025,Nov,11,Jaipur,Rajasthan,MG,MG ZS EV,Electric,Electric,Automatic,1,2375000,7.0,166250.0,2208750.0,1980905.08,227844.92,Dealer,Cash,Returning
+CS0011,2025-11-27,2025,Nov,11,Pune,Maharashtra,MG,MG ZS EV,Electric,Electric,Manual,1,2427000,7.0,169890.0,2257110.0,2111743.69,145366.31,Direct,UPI,Fleet
+CS0170,2025-11-27,2025,Nov,11,Chennai,Tamil Nadu,Mahindra,Scorpio,SUV,CNG,Automatic,1,1559000,2.0,31180.0,1527820.0,1230416.4,297403.6,Direct,UPI,New
+CS0500,2025-12-02,2025,Dec,12,Pune,Maharashtra,Tata Motors,Punch EV,Electric,Electric,Manual,1,1331000,5.0,66550.0,1264450.0,1153812.98,110637.02,Direct,UPI,New
+CS0085,2025-12-04,2025,Dec,12,Ahmedabad,Gujarat,Maruti Suzuki,Dzire,Sedan,Diesel,Automatic,1,741000,3.0,22230.0,718770.0,588191.29,130578.71,Dealer,UPI,Returning
+CS0292,2025-12-04,2025,Dec,12,Delhi,Delhi,Tata Motors,Nexon EV,Electric,Electric,Automatic,1,1608000,0.0,0.0,1608000.0,1322089.11,285910.89,Online,Card,New
+CS0251,2025-12-04,2025,Dec,12,Lucknow,Uttar Pradesh,Kia,Seltos,SUV,Petrol,Manual,1,1414000,7.0,98980.0,1315020.0,1149892.14,165127.86,Direct,UPI,New
+CS0168,2025-12-06,2025,Dec,12,Mumbai,Maharashtra,Tata Motors,Punch EV,Electric,Electric,Manual,1,1271000,10.0,127100.0,1143900.0,1122858.75,21041.25,Dealer,Card,Fleet
+CS0056,2025-12-06,2025,Dec,12,Delhi,Delhi,Tata Motors,Tiago EV,Electric,Electric,Automatic,1,1017000,0.0,0.0,1017000.0,853317.87,163682.13,Online,Cash,Returning
+CS0285,2025-12-06,2025,Dec,12,Delhi,Delhi,Maruti Suzuki,Dzire,Sedan,Petrol,Manual,1,726000,2.0,14520.0,711480.0,618852.44,92627.56,Direct,UPI,Fleet
+CS0476,2025-12-07,2025,Dec,12,Delhi,Delhi,Mahindra,Scorpio,SUV,Diesel,Manual,1,1618000,3.0,48540.0,1569460.0,1323578.35,245881.65,Online,Loan,Returning
+CS0404,2025-12-08,2025,Dec,12,Ahmedabad,Gujarat,Skoda,Slavia,Sedan,Petrol,Automatic,1,1492000,2.0,29840.0,1462160.0,1168091.29,294068.71,Online,UPI,Returning
+CS0394,2025-12-08,2025,Dec,12,Mumbai,Maharashtra,Honda,Honda City,Sedan,Petrol,Automatic,1,1306000,5.0,65300.0,1240700.0,1109575.06,131124.94,Online,Card,New
+CS0364,2025-12-08,2025,Dec,12,Hyderabad,Telangana,Maruti Suzuki,WagonR,Hatchback,CNG,Manual,1,583000,0.0,0.0,583000.0,500934.78,82065.22,Online,Loan,Fleet
+CS0211,2025-12-09,2025,Dec,12,Jaipur,Rajasthan,Mahindra,XUV500,SUV,Petrol,Automatic,1,1560000,10.0,156000.0,1404000.0,1357134.82,46865.18,Direct,Card,Fleet
+CS0020,2025-12-10,2025,Dec,12,Kolkata,West Bengal,Mahindra,Scorpio,SUV,Petrol,Manual,1,1555000,5.0,77750.0,1477250.0,1228594.33,248655.67,Direct,UPI,Fleet
+CS0099,2025-12-10,2025,Dec,12,Pune,Maharashtra,Kia,Seltos,SUV,Petrol,Automatic,1,1448000,7.0,101360.0,1346640.0,1149752.2,196887.8,Online,Cash,Returning
+CS0096,2025-12-11,2025,Dec,12,Delhi,Delhi,Kia,Seltos,SUV,Diesel,Automatic,1,1481000,3.0,44430.0,1436570.0,1233223.06,203346.94,Online,Loan,New
+CS0029,2025-12-11,2025,Dec,12,Pune,Maharashtra,Mahindra,XUV500,SUV,Petrol,Manual,1,1559000,2.0,31180.0,1527820.0,1218293.86,309526.14,Direct,Loan,New
+CS0261,2025-12-12,2025,Dec,12,Chennai,Tamil Nadu,Kia,Seltos,SUV,Petrol,Automatic,1,1385000,3.0,41550.0,1343450.0,1182869.5,160580.5,Dealer,Card,Fleet
+CS0136,2025-12-12,2025,Dec,12,Delhi,Delhi,Maruti Suzuki,WagonR,Hatchback,Petrol,Automatic,1,640000,2.0,12800.0,627200.0,500198.55,127001.45,Direct,Loan,Returning
+CS0054,2025-12-12,2025,Dec,12,Kolkata,West Bengal,Skoda,Slavia,Sedan,CNG,Automatic,1,1552000,7.0,108640.0,1443360.0,1306285.4,137074.6,Direct,Cash,New
+CS0243,2025-12-12,2025,Dec,12,Delhi,Delhi,Maruti Suzuki,WagonR,Hatchback,Diesel,Automatic,1,600000,10.0,60000.0,540000.0,481112.49,58887.51,Dealer,Card,New
+CS0438,2025-12-12,2025,Dec,12,Hyderabad,Telangana,Hyundai,Creta,SUV,CNG,Automatic,1,1247000,7.0,87290.0,1159710.0,1100928.3,58781.7,Direct,Card,New
+CS0172,2025-12-14,2025,Dec,12,Jaipur,Rajasthan,Maruti Suzuki,Dzire,Sedan,CNG,Automatic,1,791000,3.0,23730.0,767270.0,647235.99,120034.01,Direct,Card,New
+CS0340,2025-12-15,2025,Dec,12,Mumbai,Maharashtra,Maruti Suzuki,WagonR,Hatchback,CNG,Automatic,1,609000,7.0,42630.0,566370.0,479270.61,87099.39,Dealer,Card,New
+CS0002,2025-12-15,2025,Dec,12,Kolkata,West Bengal,Mahindra,XUV500,SUV,Petrol,Automatic,1,1503000,3.0,45090.0,1457910.0,1254990.49,202919.51,Dealer,Cash,New
+CS0239,2025-12-15,2025,Dec,12,Kolkata,West Bengal,Kia,Seltos,SUV,Diesel,Manual,1,1480000,2.0,29600.0,1450400.0,1168628.4,281771.6,Dealer,Loan,Returning
+CS0291,2025-12-15,2025,Dec,12,Jaipur,Rajasthan,Hyundai,i20,Hatchback,Petrol,Automatic,1,907000,5.0,45350.0,861650.0,733960.61,127689.39,Online,Loan,New
+CS0461,2025-12-15,2025,Dec,12,Hyderabad,Telangana,Honda,Honda City,Sedan,Diesel,Manual,1,1436000,3.0,43080.0,1392920.0,1214278.42,178641.58,Dealer,UPI,Fleet
+CS0421,2025-12-16,2025,Dec,12,Hyderabad,Telangana,Maruti Suzuki,Dzire,Sedan,Petrol,Automatic,1,733000,0.0,0.0,733000.0,591558.88,141441.12,Direct,Cash,Fleet
+CS0075,2025-12-17,2025,Dec,12,Ahmedabad,Gujarat,Tata Motors,Nexon,SUV,Petrol,Automatic,1,996000,5.0,49800.0,946200.0,828471.95,117728.05,Online,Card,New
+CS0246,2025-12-18,2025,Dec,12,Jaipur,Rajasthan,Tata Motors,Nexon,SUV,CNG,Manual,1,989000,2.0,19780.0,969220.0,779988.51,189231.49,Dealer,Cash,Returning
+CS0140,2025-12-18,2025,Dec,12,Kolkata,West Bengal,Maruti Suzuki,Baleno,Hatchback,CNG,Automatic,1,787000,5.0,39350.0,747650.0,665995.34,81654.66,Online,Card,Returning
+CS0390,2025-12-20,2025,Dec,12,Kolkata,West Bengal,Mahindra,Scorpio,SUV,Diesel,Automatic,1,1606000,10.0,160600.0,1445400.0,1339136.24,106263.76,Dealer,Card,New
+CS0377,2025-12-21,2025,Dec,12,Kolkata,West Bengal,Mahindra,Scorpio,SUV,Diesel,Manual,1,1661000,5.0,83050.0,1577950.0,1330945.1,247004.9,Direct,Card,New
+CS0423,2025-12-21,2025,Dec,12,Chennai,Tamil Nadu,Maruti Suzuki,Swift,Hatchback,CNG,Automatic,1,680000,7.0,47600.0,632400.0,535921.74,96478.26,Direct,UPI,Fleet
+CS0482,2025-12-23,2025,Dec,12,Jaipur,Rajasthan,Maruti Suzuki,Swift,Hatchback,Diesel,Automatic,1,652000,2.0,13040.0,638960.0,545527.88,93432.12,Online,Cash,Fleet
+CS0181,2025-12-25,2025,Dec,12,Bengaluru,Karnataka,Hyundai,Verna,Sedan,CNG,Manual,1,1301000,3.0,39030.0,1261970.0,1048853.8,213116.2,Online,Loan,New
+CS0132,2025-12-25,2025,Dec,12,Mumbai,Maharashtra,Maruti Suzuki,Baleno,Hatchback,Petrol,Automatic,1,811000,2.0,16220.0,794780.0,634498.23,160281.77,Online,Card,Returning
+CS0359,2025-12-26,2025,Dec,12,Kolkata,West Bengal,Mahindra,XUV500,SUV,Diesel,Automatic,1,1482000,0.0,0.0,1482000.0,1182666.06,299333.94,Direct,Loan,Returning
+CS0122,2025-12-26,2025,Dec,12,Ahmedabad,Gujarat,Tata Motors,Nexon,SUV,Diesel,Automatic,1,987000,0.0,0.0,987000.0,790946.58,196053.42,Dealer,Loan,Returning
+CS0014,2025-12-26,2025,Dec,12,Delhi,Delhi,Hyundai,i20,Hatchback,Diesel,Automatic,1,825000,7.0,57750.0,767250.0,675112.05,92137.95,Online,Cash,New
+CS0063,2025-12-26,2025,Dec,12,Delhi,Delhi,Maruti Suzuki,Baleno,Hatchback,Petrol,Automatic,1,791000,0.0,0.0,791000.0,636565.2,154434.8,Dealer,UPI,New
+CS0252,2025-12-26,2025,Dec,12,Kolkata,West Bengal,Kia,Seltos,SUV,CNG,Manual,1,1379000,7.0,96530.0,1282470.0,1178708.51,103761.49,Online,Card,New
+CS0038,2025-12-30,2025,Dec,12,Jaipur,Rajasthan,Tata Motors,Nexon,SUV,Diesel,Manual,1,930000,5.0,46500.0,883500.0,827059.47,56440.53,Online,Cash,New
+CS0313,2025-12-31,2025,Dec,12,Hyderabad,Telangana,Skoda,Slavia,Sedan,Petrol,Automatic,1,1584000,0.0,0.0,1584000.0,1248371.8,335628.2,Direct,UPI,New
+CS0420,2025-12-31,2025,Dec,12,Lucknow,Uttar Pradesh,Tata Motors,Nexon,SUV,Petrol,Manual,1,1022000,3.0,30660.0,991340.0,871789.78,119550.22,Online,Card,Returning
